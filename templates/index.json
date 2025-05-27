@@ -319,24 +319,24 @@
         "tab_aDCDfq": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Caractéristiques",
+            "content": "<p>💫 <strong>Technologie magnétique & acupression</strong> pour stimuler les points clés du bien-être<br/><br/>• Apaise naturellement le stress et l'anxiété           <br/>• Favorise un sommeil plus réparateur<br/>• Réduit les tensions corporelles</p><p>🔋 <strong>Aucun besoin de batterie</strong> — fonctionne uniquement par contact et pression</p><p>💍 <strong>Discrète, élégante et ajustable</strong>, s’adapte à tous les doigts</p><p>🧘‍♂️ <strong>Favorise la circulation sanguine</strong> et l'équilibre énergétique</p><p>🌿 <strong>Sans effets secondaires, sans médicament</strong> — 100% bien-être naturel</p><p>Matériau : acier inoxydable<br/>Poids : 5,5 g<br/>Épaisseur : 1,2 mm</p>",
             "page": ""
           }
         },
         "tab_6gT89R": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Description",
+            "content": "<p>Déconnectez-vous des smartphones et des applications. </p><p>Adoptez une approche naturelle et élégante pour améliorer votre santé. </p><p>Comment est-ce possible ? </p><p>Grâce à l'application de quatre aimants dynamiques qui interagissent avec le champ magnétique déjà présent dans votre corps, créant une force magnétique qui améliore votre santé dans plusieurs domaines.</p>",
             "page": ""
           }
         },
         "tab_nHJ8Tq": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Taille ajustable",
+            "content": "<p>La bague Calmi est ajustable, vous permettant de l'ajuster confortablement à votre doigt. </p><p>Elle convient à toutes les tailles, hommes comme femmes.</p>",
             "page": ""
           }
         }
@@ -366,38 +366,70 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
+            "title": "🌀 Comment fonctionne la bague ?",
             "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "📉 Est-ce vraiment efficace ?",
+            "content": "<p>Oui, de nombreux utilisateurs témoignent d’un <strong>soulagement rapide du stress, de l’anxiété et des douleurs légères</strong>. Ce n’est pas un produit miracle, mais une <strong>solution naturelle</strong> qui peut améliorer votre bien-être quotidien avec une utilisation régulière.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "💊 Y a-t-il des effets secondaires ?",
+            "content": "<p>Non, aucun effet secondaire n’a été signalé. La bague ne contient ni produit chimique, ni batterie. Elle agit uniquement par <strong>pression et champ magnétique doux</strong>.</p>"
+          }
+        },
+        "item_bEzrRk": {
+          "type": "item",
+          "settings": {
+            "title": "📏 Est-elle ajustable à tous les doigts ?",
+            "content": "<p>Oui, la bague est conçue pour être <strong>ajustable facilement</strong>, sans douleur ni outil. Elle convient à la majorité des tailles de doigts.</p>"
+          }
+        },
+        "item_EcQiqr": {
+          "type": "item",
+          "settings": {
+            "title": "🌍 Puis-je la porter partout ?",
+            "content": "<p>Absolument. Sa <strong>forme discrète et élégante</strong> vous permet de la porter au quotidien, au travail, en soirée ou pendant le sport.</p>"
+          }
+        },
+        "item_cJpzEq": {
+          "type": "item",
+          "settings": {
+            "title": "🚫 Y a-t-il des contre-indications ?",
+            "content": "<p>Cette bague ne convient pas aux personnes portant un <strong>stimulateur cardiaque (pacemaker)</strong> ou ayant des implants métalliques sensibles aux champs magnétiques.</p>"
+          }
+        },
+        "item_9dNriz": {
+          "type": "item",
+          "settings": {
+            "title": "🔌 Faut-il la recharger ?",
+            "content": "<p>Non, elle ne nécessite <strong>aucune recharge</strong>. Elle fonctionne uniquement par pression et champ magnétique.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_bEzrRk",
+        "item_EcQiqr",
+        "item_cJpzEq",
+        "item_9dNriz"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Notre support client est disponible du Lundi au Dimanche : de 8h à 20h00.",
+        "answer_time": "Temps de réponse moyen : 24h",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
