@@ -55,7 +55,8 @@
         "logo_q4zYzr": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/TopSante.webp",
+            "logo_width": 300,
             "link": ""
           }
         }
@@ -81,6 +82,47 @@
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
         "logo_item_border": ""
+      }
+    },
+    "rich_text_3Pxxwq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yp8GB8": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yp8GB8"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_K6NJHd": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "image-link-blocks": {
@@ -892,6 +934,8 @@
   "order": [
     "image_with_text_overlay_xTAHXM",
     "logo_list_ceEwcB",
+    "rich_text_3Pxxwq",
+    "image_with_text_overlay_K6NJHd",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
