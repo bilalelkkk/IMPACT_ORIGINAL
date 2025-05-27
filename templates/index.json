@@ -311,19 +311,19 @@
     "tabs_LtBVVp": {
       "type": "tabs",
       "blocks": {
-        "tab_aDCDfq": {
-          "type": "tab",
-          "settings": {
-            "title": "Caractéristiques",
-            "content": "<p>💫 <strong>Technologie magnétique & acupression</strong> pour stimuler les points clés du bien-être<br/><br/>• Apaise naturellement le stress et l'anxiété           <br/>• Favorise un sommeil plus réparateur<br/>• Réduit les tensions corporelles</p><p>🔋 <strong>Aucun besoin de batterie</strong> — fonctionne uniquement par contact et pression</p><p>💍 <strong>Discrète, élégante et ajustable</strong>, s’adapte à tous les doigts</p><p>🧘‍♂️ <strong>Favorise la circulation sanguine</strong> et l'équilibre énergétique</p><p>🌿 <strong>Sans effets secondaires, sans médicament</strong> — 100% bien-être naturel</p><p>Matériau : acier inoxydable<br/>Poids : 5,5 g<br/>Épaisseur : 1,2 mm</p>",
-            "page": ""
-          }
-        },
         "tab_6gT89R": {
           "type": "tab",
           "settings": {
             "title": "Description",
             "content": "<p>Déconnectez-vous des smartphones et des applications. </p><p>Adoptez une approche naturelle et élégante pour améliorer votre santé. </p><p>Comment est-ce possible ? </p><p>Grâce à l'application de quatre aimants dynamiques qui interagissent avec le champ magnétique déjà présent dans votre corps, créant une force magnétique qui améliore votre santé dans plusieurs domaines.</p>",
+            "page": ""
+          }
+        },
+        "tab_aDCDfq": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<p>💫 <strong>Technologie magnétique & acupression</strong> pour stimuler les points clés du bien-être<br/><br/>• Apaise naturellement le stress et l'anxiété           <br/>• Favorise un sommeil plus réparateur<br/>• Réduit les tensions corporelles</p><p>🔋 <strong>Aucun besoin de batterie</strong> — fonctionne uniquement par contact et pression</p><p>💍 <strong>Discrète, élégante et ajustable</strong>, s’adapte à tous les doigts</p><p>🧘‍♂️ <strong>Favorise la circulation sanguine</strong> et l'équilibre énergétique</p><p>🌿 <strong>Sans effets secondaires, sans médicament</strong> — 100% bien-être naturel</p><p>Matériau : acier inoxydable<br/>Poids : 5,5 g<br/>Épaisseur : 1,2 mm</p>",
             "page": ""
           }
         },
@@ -337,8 +337,8 @@
         }
       },
       "block_order": [
-        "tab_aDCDfq",
         "tab_6gT89R",
+        "tab_aDCDfq",
         "tab_nHJ8Tq"
       ],
       "name": "Tabs",
