@@ -423,8 +423,8 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Notre support client est disponible du Lundi au Dimanche : de 8h à 20h00.",
-        "answer_time": "Temps de réponse moyen : 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -438,6 +438,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_rTiLnf": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "title": "Une question?",
+        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -448,6 +469,7 @@
     "multi_column_Q48PaA",
     "featured-product",
     "tabs_LtBVVp",
-    "faq"
+    "faq",
+    "contact_rTiLnf"
   ]
 }
