@@ -218,6 +218,12 @@
             "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Seulement quelques articles en stock&nbsp;!</strong> – Dépêchez-vous.\n  </span>\n</div>\n\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #f59e0b;\n}\n\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #facc15;\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(250, 204, 21, 0.3);\n}\n\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #facc15;\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
           }
         },
+        "liquid_AG4TnH": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"bundle-wrapper\" style=\"border:1px solid #000; padding: 20px; border-radius: 10px; max-width: 700px;\">\n  <h2>Bundle & Save</h2>\n  \n  <!-- 1 ring only -->\n  <div class=\"bundle-option\" style=\"margin-bottom: 20px; padding: 15px; border: 2px solid #000; border-radius: 10px;\">\n    <label>\n      <input type=\"radio\" name=\"bundle_choice\" checked>\n      <strong>1 ring only</strong><br>\n      <span style=\"color: #888;\">40% OFF SPRING SALE</span><br>\n      <span><s>€70,95</s> <strong>€44,95</strong></span>\n    </label>\n    <div style=\"margin-top: 10px;\">\n      <label for=\"single_color\">Choose your color:</label>\n      <select id=\"single_color\" name=\"single_color\" style=\"margin-top:5px;\">\n        <option value=\"gold\">🟡 Gold</option>\n        <option value=\"chrome\">⚪ Chrome</option>\n        <option value=\"onyx\">⚫ Onyx</option>\n        <option value=\"rose_gold\">🟤 Rose Gold</option>\n      </select>\n    </div>\n  </div>\n\n  <!-- 2 rings duo -->\n  <div class=\"bundle-option\" style=\"padding: 15px; border: 2px solid #ccc; border-radius: 10px; position: relative;\">\n    <label>\n      <input type=\"radio\" name=\"bundle_choice\">\n      <strong>2 rings duo</strong><br>\n      <span style=\"color: #888;\">Free shipping</span><br>\n      <span><s>€89,90</s> <strong>€71,92</strong></span>\n    </label>\n    <span style=\"position: absolute; top: -10px; right: -10px; background: black; color: white; padding: 2px 10px; font-size: 12px; border-radius: 5px;\">POPULAR</span>\n    <div style=\"margin-top: 10px;\">\n      <label for=\"duo_color1\">First ring color:</label><br>\n      <select id=\"duo_color1\" name=\"duo_color1\" style=\"margin-bottom: 10px;\">\n        <option value=\"gold\">🟡 Gold</option>\n        <option value=\"chrome\">⚪ Chrome</option>\n        <option value=\"onyx\">⚫ Onyx</option>\n        <option value=\"rose_gold\">🟤 Rose Gold</option>\n      </select><br>\n\n      <label for=\"duo_color2\">Second ring color:</label><br>\n      <select id=\"duo_color2\" name=\"duo_color2\">\n        <option value=\"gold\">🟡 Gold</option>\n        <option value=\"chrome\">⚪ Chrome</option>\n        <option value=\"onyx\">⚫ Onyx</option>\n        <option value=\"rose_gold\">🟤 Rose Gold</option>\n      </select>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -276,6 +282,7 @@
         "liquid_rgiUWb",
         "title",
         "liquid_VpqWic",
+        "liquid_AG4TnH",
         "badges",
         "price",
         "rating",
