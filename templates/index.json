@@ -228,12 +228,6 @@
           "type": "badges",
           "settings": {}
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -284,7 +278,6 @@
         "liquid_VpqWic",
         "liquid_AG4TnH",
         "badges",
-        "price",
         "rating",
         "description",
         "variant-picker",
