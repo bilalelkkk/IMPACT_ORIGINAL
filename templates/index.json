@@ -222,7 +222,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#d7c4a3",
+            "atc_button_background": "#f5b35e",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -245,7 +245,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "bague-manea",
+        "product": "brosse-a-dents-electrique-maneaa™",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
