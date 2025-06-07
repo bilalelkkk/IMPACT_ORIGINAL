@@ -16,12 +16,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_21_12_18.png",
+        "image": "shopify://shop_images/BILALLLL.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 5
       }
     },
     "logo_list_ceEwcB": {
@@ -30,7 +30,7 @@
         "logo_axeiAX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/sami.png",
+            "logo": "shopify://shop_images/1.1.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -38,7 +38,7 @@
         "logo_c7BEkb": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/GQ1.png",
+            "logo": "shopify://shop_images/5.png",
             "logo_width": 300,
             "link": ""
           }
@@ -46,7 +46,7 @@
         "logo_b9PTke": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/biba.png",
+            "logo": "shopify://shop_images/6.png",
             "logo_width": 300,
             "link": ""
           }
@@ -54,7 +54,7 @@
         "logo_q4zYzr": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/TopSante.webp",
+            "logo": "shopify://shop_images/m6.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -114,7 +114,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Benefices.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -128,7 +127,6 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_2.webp",
             "column_size": "3",
             "title": "Un bijou, mais surtout un soutien au quotidien",
             "heading_tag": "h4",
@@ -141,7 +139,6 @@
         "item_gV33Eb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_3.webp",
             "column_size": "3",
             "title": "Un changement radical dès la première nuit",
             "heading_tag": "h4",
@@ -154,7 +151,6 @@
         "item_V47HQi": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_4.webp",
             "column_size": "3",
             "title": "Mon rituel bien-être pour mieux dormir",
             "heading_tag": "h4",
@@ -167,7 +163,6 @@
         "item_dd3aCG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_1.webp",
             "column_size": "3",
             "title": "Un apaisement instantané, au moment où j’en avais le plus besoin",
             "heading_tag": "h4",
@@ -218,12 +213,6 @@
             "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Seulement quelques articles en stock&nbsp;!</strong> – Dépêchez-vous.\n  </span>\n</div>\n\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #f59e0b;\n}\n\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #facc15;\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(250, 204, 21, 0.3);\n}\n\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #facc15;\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
           }
         },
-        "kaching_bundles_app_block_rqe6kr": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "quantity-selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -250,7 +239,6 @@
         "liquid_rgiUWb",
         "title",
         "liquid_VpqWic",
-        "kaching_bundles_app_block_rqe6kr",
         "quantity-selector",
         "buy-buttons",
         "liquid_FNcGAH"
