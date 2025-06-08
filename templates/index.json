@@ -218,6 +218,12 @@
             "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Seulement quelques articles en stock&nbsp;!</strong> – Dépêchez-vous.\n  </span>\n</div>\n\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #f59e0b;\n}\n\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #facc15;\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(250, 204, 21, 0.3);\n}\n\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #facc15;\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
           }
         },
+        "liquid_7U47KA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; justify-content: center; margin: 10px 0;\">\n  <div style=\"display: inline-flex; align-items: center; background-color: #f5f5f5; border-radius: 20px; padding: 4px 10px; font-weight: 600; font-family: Arial, sans-serif; font-size: 13px; color: #000;\">\n    ÉLU #1 DES LISSEURS 2025 🇫🇷\n  </div>\n</div>"
+          }
+        },
         "quantity-selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -244,6 +250,7 @@
         "liquid_rgiUWb",
         "title",
         "liquid_VpqWic",
+        "liquid_7U47KA",
         "quantity-selector",
         "buy-buttons",
         "liquid_FNcGAH"
