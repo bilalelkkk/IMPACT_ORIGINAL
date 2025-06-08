@@ -130,9 +130,9 @@
           "settings": {
             "image": "shopify://shop_images/AVIS_GOOD.png",
             "column_size": "3",
-            "title": "Vue dans une chronique santé sur M6 : j’ai craqué, et je ne regrette pas",
+            "title": "⭐ « Cette brosse est passée à la télé, et elle mérite sa place »",
             "heading_tag": "h4",
-            "content": "<p>J’ai découvert cette brosse dans un sujet diffusé sur M6. Ils parlaient des nouvelles technologies d’hygiène dentaire… et franchement, elle tient ses promesses. Depuis que je l’utilise, mes dents sont plus nettes, plus lisses, et je sens que mes gencives vont beaucoup mieux.</p>",
+            "content": "<p>Ils en ont parlé dans une émission santé, j’ai voulu tester. Bluffé. Dès la première semaine, j’ai senti une vraie différence : haleine plus fraîche, dents ultra lisses, et surtout plus de douleurs aux gencives. Et son look ? Canon.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -156,7 +156,7 @@
           "settings": {
             "image": "shopify://shop_images/AVIS_OK_2.png",
             "column_size": "3",
-            "title": "Un changement radical dès la première nuit",
+            "title": "Une sensation de fraîcheur qui dure",
             "heading_tag": "h4",
             "content": "<p>Je suis bluffée ! Après des semaines de nuits agitées, cette bague m’a offert un apaisement immédiat. Je me réveille reposée, détendue, et pleine d’énergie. C’est devenu mon indispensable bien-être.</p>",
             "link_url": "",
@@ -169,9 +169,9 @@
           "settings": {
             "image": "shopify://shop_images/AVIS_OK_3.png",
             "column_size": "3",
-            "title": "Mon rituel bien-être pour mieux dormir",
+            "title": "Enfin une brosse douce mais ultra efficace",
             "heading_tag": "h4",
-            "content": "<p>Franchement, je n’y croyais pas. Et pourtant… En une semaine, j’ai retrouvé un sommeil profond et réparateur. Mon esprit est plus serein, mes pensées plus claires. Je la recommande les yeux fermés.</p>",
+            "content": "<p>J’ai les gencives sensibles et cette brosse est juste parfaite. </p><p>Elle nettoie à fond sans agresser. </p><p>En plus, elle est silencieuse, élégante, et tient super bien en main.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
