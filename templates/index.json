@@ -11,11 +11,23 @@
   "sections": {
     "image_with_text_overlay_xTAHXM": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_QXFJKK": {
+          "type": "heading",
+          "settings": {
+            "text": "Elle change des milliers de sourires… et bientôt le vôtre ?",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QXFJKK"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "sm",
         "image": "shopify://shop_images/BILALLLL.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
