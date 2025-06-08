@@ -128,6 +128,7 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/AVIS_OK_1.png",
             "column_size": "3",
             "title": "Un bijou, mais surtout un soutien au quotidien",
             "heading_tag": "h4",
@@ -140,6 +141,7 @@
         "item_gV33Eb": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/AVIS_OK_2.png",
             "column_size": "3",
             "title": "Un changement radical dès la première nuit",
             "heading_tag": "h4",
@@ -152,6 +154,7 @@
         "item_V47HQi": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/AVIS_OK_3.png",
             "column_size": "3",
             "title": "Mon rituel bien-être pour mieux dormir",
             "heading_tag": "h4",
@@ -164,6 +167,7 @@
         "item_dd3aCG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/AVIS_GOOD.png",
             "column_size": "3",
             "title": "Un apaisement instantané, au moment où j’en avais le plus besoin",
             "heading_tag": "h4",
