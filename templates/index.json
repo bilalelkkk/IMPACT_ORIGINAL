@@ -15,7 +15,7 @@
         "heading_QXFJKK": {
           "type": "heading",
           "settings": {
-            "text": "Elle change des milliers de sourires… et bientôt le vôtre ?",
+            "text": "Elle ne brosse pas juste… elle remplace votre dentiste.",
             "heading_tag": "h2"
           }
         }
@@ -29,8 +29,8 @@
         "enable_parallax": false,
         "image_size": "sm",
         "image": "shopify://shop_images/BILALLLL.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 5
