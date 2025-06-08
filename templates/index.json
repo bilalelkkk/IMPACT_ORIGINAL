@@ -128,7 +128,7 @@
         "item_dd3aCG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVIS_GOOD.png",
+            "image": "shopify://shop_images/55.png",
             "column_size": "3",
             "title": "⭐ « Cette brosse est passée à la télé, et elle mérite sa place »",
             "heading_tag": "h4",
@@ -141,7 +141,7 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVIS_OK_1.png",
+            "image": "shopify://shop_images/2_d95baffb-22c3-4c8f-8ae7-efee81c0cc68.png",
             "column_size": "3",
             "title": "Un bijou, mais surtout un soutien au quotidien",
             "heading_tag": "h4",
@@ -154,7 +154,7 @@
         "item_gV33Eb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVIS_OK_2.png",
+            "image": "shopify://shop_images/66.png",
             "column_size": "3",
             "title": "Une sensation de fraîcheur qui dure",
             "heading_tag": "h4",
@@ -167,7 +167,7 @@
         "item_V47HQi": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVIS_OK_3.png",
+            "image": "shopify://shop_images/1_f034a8db-e413-4539-a680-d3acfd1d1345.png",
             "column_size": "3",
             "title": "Enfin une brosse douce mais ultra efficace",
             "heading_tag": "h4",
