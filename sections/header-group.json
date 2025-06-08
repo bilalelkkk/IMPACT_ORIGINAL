@@ -21,16 +21,32 @@
             "url": ""
           }
         },
+        "message_gU6CeW": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE LIMITÉE",
+            "url": ""
+          }
+        },
+        "message_LbACtE": {
+          "type": "message",
+          "settings": {
+            "text": "SATISFAIT OU REMBOURSÉ",
+            "url": ""
+          }
+        },
         "message_Wqhabm": {
           "type": "message",
           "settings": {
-            "text": "🚨 STOCKS FAIBLES - REAPPROVISIONNEMENT EN AOUT 2025 !",
+            "text": "STOCKS BIENTÔT ÉPUISÉS",
             "url": ""
           }
         }
       },
       "block_order": [
         "message",
+        "message_gU6CeW",
+        "message_LbACtE",
         "message_Wqhabm"
       ],
       "settings": {
