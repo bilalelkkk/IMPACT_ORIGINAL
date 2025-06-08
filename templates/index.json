@@ -276,24 +276,15 @@
         "tab_aDCDfq": {
           "type": "tab",
           "settings": {
-            "title": "Caractéristiques",
-            "content": "<p>💫 <strong>Technologie magnétique & acupression</strong> pour stimuler les points clés du bien-être<br/><br/>• Apaise naturellement le stress et l'anxiété           <br/>• Favorise un sommeil plus réparateur<br/>• Réduit les tensions corporelles</p><p>🔋 <strong>Aucun besoin de batterie</strong> — fonctionne uniquement par contact et pression</p><p>💍 <strong>Discrète, élégante et ajustable</strong>, s’adapte à tous les doigts</p><p>🧘‍♂️ <strong>Favorise la circulation sanguine</strong> et l'équilibre énergétique</p><p>🌿 <strong>Sans effets secondaires, sans médicament</strong> — 100% bien-être naturel</p><p>Matériau : acier inoxydable<br/>Poids : 5,5 g<br/>Épaisseur : 1,2 mm</p>",
-            "page": ""
-          }
-        },
-        "tab_nHJ8Tq": {
-          "type": "tab",
-          "settings": {
-            "title": "Taille ajustable",
-            "content": "<p>La bague Manéaa est ajustable, vous permettant de l'ajuster confortablement à votre doigt. </p><p>Elle convient à toutes les tailles, hommes comme femmes.</p>",
+            "title": "Comment ça marche ?",
+            "content": "<p>Les dentistes recommandent de changer régulièrement la tête de votre brosse à dents en raison de l'usure et du développement de bactéries. </p><p>Vous recevrez vos nouvelles têtes de brosses directement chez vous pour seulement 4,90€/tête (livraison incluse).</p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "tab_6gT89R",
-        "tab_aDCDfq",
-        "tab_nHJ8Tq"
+        "tab_aDCDfq"
       ],
       "settings": {
         "full_width": true,
@@ -314,43 +305,43 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "🌀 Comment fonctionne la bague ?",
-            "content": "<p>La bague utilise une combinaison de <strong>magnétothérapie</strong> et <strong>d’acupression</strong>. En stimulant certains points de pression, elle aide à <strong>rééquilibrer l’énergie du corps</strong>, améliorer la <strong>circulation sanguine</strong> et <strong>réduire le stress</strong> naturellement.</p>"
+            "title": "La brosse Manéaa™ est-elle adaptée aux dents sensibles ?",
+            "content": "<p>Oui, totalement. Grâce à ses poils ultra-souples et ses modes de brossage doux, elle respecte l’émail et les gencives sensibles.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "📉 Est-ce vraiment efficace ?",
-            "content": "<p>Oui, de nombreux utilisateurs témoignent d’un <strong>soulagement rapide du stress, de l’anxiété et des douleurs légères</strong>. Ce n’est pas un produit miracle, mais une <strong>solution naturelle</strong> qui peut améliorer votre bien-être quotidien avec une utilisation régulière.</p>"
+            "title": "Quelle est l’autonomie de la brosse ?",
+            "content": "<p>Jusqu’à <strong>30 jours d’utilisation</strong> avec une seule charge (à raison de 2 utilisations par jour).</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "💊 Y a-t-il des effets secondaires ?",
-            "content": "<p>Non, aucun effet secondaire n’a été signalé. La bague ne contient ni produit chimique, ni batterie. Elle agit uniquement par <strong>pression et champ magnétique doux</strong>.</p>"
+            "title": "Combien de modes de brossage propose-t-elle ?",
+            "content": "<p>Elle dispose de <strong>5 modes</strong> : Clean, Sensitive, Whitening, Polish et Massage — pour s’adapter à tous les besoins bucco-dentaires.</p>"
           }
         },
         "item_bEzrRk": {
           "type": "item",
           "settings": {
-            "title": "📏 Est-elle ajustable à tous les doigts ?",
-            "content": "<p>Oui, la bague est conçue pour être <strong>ajustable facilement</strong>, sans douleur ni outil. Elle convient à la majorité des tailles de doigts.</p>"
+            "title": "Est-elle facile à entretenir ?",
+            "content": "<p>Oui. Il suffit de rincer la tête après chaque utilisation. Le corps de la brosse est <strong>étanche</strong> (IPX7) et peut être essuyé avec un chiffon humide.</p>"
           }
         },
         "item_EcQiqr": {
           "type": "item",
           "settings": {
-            "title": "🌍 Puis-je la porter partout ?",
-            "content": "<p>Absolument. Sa <strong>forme discrète et élégante</strong> vous permet de la porter au quotidien, au travail, en soirée ou pendant le sport.</p>"
+            "title": "À quelle fréquence faut-il changer la tête ?",
+            "content": "<p>Comme pour toute brosse à dents, il est recommandé de changer la tête tous les <strong>2 à 3 mois</strong>, ou dès que les poils sont usés.</p>"
           }
         },
         "item_cJpzEq": {
           "type": "item",
           "settings": {
-            "title": "🚫 Y a-t-il des contre-indications ?",
-            "content": "<p>Cette bague ne convient pas aux personnes portant un <strong>stimulateur cardiaque (pacemaker)</strong> ou ayant des implants métalliques sensibles aux champs magnétiques.</p>"
+            "title": "Que contient le coffret Manéaa™ ?",
+            "content": "<ul><li>1 brosse à dents sonique</li><li>1 tête de brosse à poils souples</li><li>1 capuchon de protection</li><li>1 câble de charge USB-C</li></ul>"
           }
         },
         "item_9dNriz": {
