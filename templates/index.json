@@ -125,6 +125,19 @@
     "multi_column_Q48PaA": {
       "type": "multi-column",
       "blocks": {
+        "item_dd3aCG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS_GOOD.png",
+            "column_size": "3",
+            "title": "Vue dans une chronique santé sur M6 : j’ai craqué, et je ne regrette pas",
+            "heading_tag": "h4",
+            "content": "<p>J’ai découvert cette brosse dans un sujet diffusé sur M6. Ils parlaient des nouvelles technologies d’hygiène dentaire… et franchement, elle tient ses promesses. Depuis que je l’utilise, mes dents sont plus nettes, plus lisses, et je sens que mes gencives vont beaucoup mieux.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_menNpN": {
           "type": "item",
           "settings": {
@@ -163,26 +176,13 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_dd3aCG": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/AVIS_GOOD.png",
-            "column_size": "3",
-            "title": "Un apaisement instantané, au moment où j’en avais le plus besoin",
-            "heading_tag": "h4",
-            "content": "<p>Cette bague m’a accompagnée pendant une période très stressante de ma vie. Dès que je la mets, je ressens une vraie sensation de calme. Elle est belle, discrète, et surtout incroyablement efficace.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
+        "item_dd3aCG",
         "item_menNpN",
         "item_gV33Eb",
-        "item_V47HQi",
-        "item_dd3aCG"
+        "item_V47HQi"
       ],
       "settings": {
         "full_width": true,
