@@ -343,13 +343,6 @@
             "title": "Que contient le coffret Manéaa™ ?",
             "content": "<ul><li>1 brosse à dents sonique</li><li>1 tête de brosse à poils souples</li><li>1 capuchon de protection</li><li>1 câble de charge USB-C</li></ul>"
           }
-        },
-        "item_9dNriz": {
-          "type": "item",
-          "settings": {
-            "title": "🔌 Faut-il la recharger ?",
-            "content": "<p>Non, elle ne nécessite <strong>aucune recharge</strong>. Elle fonctionne uniquement par pression et champ magnétique.</p>"
-          }
         }
       },
       "block_order": [
@@ -358,8 +351,7 @@
         "166442457738b23caf-2",
         "item_bEzrRk",
         "item_EcQiqr",
-        "item_cJpzEq",
-        "item_9dNriz"
+        "item_cJpzEq"
       ],
       "settings": {
         "full_width": false,
