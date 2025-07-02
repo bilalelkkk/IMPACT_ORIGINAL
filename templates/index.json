@@ -308,43 +308,43 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "La brosse Manéaa™ est-elle adaptée aux dents sensibles ?",
-            "content": "<p>Oui, totalement. Grâce à ses poils ultra-souples et ses modes de brossage doux, elle respecte l’émail et les gencives sensibles.</p>"
+            "title": "À partir de quel âge mon enfant peut-il utiliser ce drone ?",
+            "content": "<p>Le drone est conçu pour les enfants dès <strong>6 ans</strong>, grâce à un système de pilotage simplifié et sécurisé.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Quelle est l’autonomie de la brosse ?",
-            "content": "<p>Jusqu’à <strong>30 jours d’utilisation</strong> avec une seule charge (à raison de 2 utilisations par jour).</p>"
+            "title": "Est-il dangereux ?",
+            "content": "<p>Absolument pas. Les hélices sont protégées dans une coque souple, et le drone est fabriqué en plastique léger et résistant. Il est pensé pour <strong>une utilisation 100 % sécurisée</strong>.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Combien de modes de brossage propose-t-elle ?",
-            "content": "<p>Elle dispose de <strong>5 modes</strong> : Clean, Sensitive, Whitening, Polish et Massage, pour s’adapter à tous les besoins bucco-dentaires.</p>"
+            "title": "Peut-on l’utiliser à l’intérieur ?",
+            "content": "<p>Oui ! Grâce à son format compact et sa stabilité, il peut être utilisé <strong>en intérieur comme en extérieur</strong> sans aucun risque pour les meubles ou les murs.</p>"
           }
         },
         "item_bEzrRk": {
           "type": "item",
           "settings": {
-            "title": "Est-elle facile à entretenir ?",
-            "content": "<p>Oui. Il suffit de rincer la tête après chaque utilisation. Le corps de la brosse est <strong>étanche</strong> (IPX7) et peut être essuyé avec un chiffon humide.</p>"
+            "title": "Est-il facile à piloter ?",
+            "content": "<p>Oui, le drone dispose d’un <strong>système de stabilisation automatique</strong> qui le rend très facile à contrôler, même pour les débutants. Il est livré avec une <strong>télécommande intuitive</strong>.</p>"
           }
         },
         "item_EcQiqr": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence faut-il changer la tête ?",
-            "content": "<p>Comme pour toute brosse à dents, il est recommandé de changer la tête tous les <strong>2 à 3 mois</strong>, ou dès que les poils sont usés.</p>"
+            "title": "Combien de temps peut-il voler ?",
+            "content": "<p>Une charge complète offre environ <strong>18 à 25 minutes de vol</strong>. Le drone se recharge via un <strong>câble USB inclus</strong> en moins d'une heure.</p>"
           }
         },
         "item_cJpzEq": {
           "type": "item",
           "settings": {
-            "title": "Que contient le coffret Manéaa™ ?",
-            "content": "<ul><li>1 brosse à dents sonique</li><li>1 tête de brosse à poils souples</li><li>1 capuchon de protection</li><li>1 câble de charge USB-C</li></ul>"
+            "title": "Est-ce que le drone est solide ?",
+            "content": "<p>Oui, il est fabriqué dans un matériau <strong>résistant aux chocs</strong>. Il peut tomber sans se casser, idéal pour les enfants qui apprennent encore à piloter.</p>"
           }
         }
       },
