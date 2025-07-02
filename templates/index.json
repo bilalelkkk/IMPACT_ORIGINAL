@@ -140,10 +140,11 @@
         "item_dd3aCG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sans_titre_800_x_1200_px.png",
             "column_size": "3",
-            "title": "⭐ « Cette brosse est passée à la télé, et elle mérite sa place »",
+            "title": "⭐ \"Testé par les enfants, validé par les parents (et les murs) 🧱",
             "heading_tag": "h4",
-            "content": "<p>Ils en ont parlé dans une émission santé, j’ai voulu tester.<br/>Dès la première semaine, j’ai senti une vraie différence : haleine plus fraîche, dents ultra lisses, et surtout plus de douleurs aux gencives. Et son look ? Canon.</p>",
+            "content": "<p>La fonction de résistance aux chutes est incroyable ! Je l'ai accidentellement laissé tomber plusieurs fois, mais il n'a pas été endommagé du tout. La qualité est solide comme le roc, vous n’avez donc pas à craindre de la casser !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
