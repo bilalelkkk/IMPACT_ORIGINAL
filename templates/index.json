@@ -15,7 +15,7 @@
         "heading_QXFJKK": {
           "type": "heading",
           "settings": {
-            "text": "Elle ne brosse pas juste… elle remplace votre dentiste.",
+            "text": "Offre-lui le jouet qui va changer ses journées cet été ☀️",
             "heading_tag": "h2"
           }
         }
@@ -28,7 +28,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_1_juil._2025_14_15_20.png",
+        "image": "shopify://shop_images/generated-image.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
@@ -237,7 +237,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f5b35e",
+            "atc_button_background": "#22a9d6",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
