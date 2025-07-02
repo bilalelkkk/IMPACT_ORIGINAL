@@ -142,7 +142,7 @@
           "settings": {
             "image": "shopify://shop_images/Sans_titre_800_x_1200_px.png",
             "column_size": "3",
-            "title": "⭐ \"Testé par les enfants, validé par les parents (et les murs) 🧱",
+            "title": "⭐ Testé par les enfants, validé par les parents (et les murs) 🧱",
             "heading_tag": "h4",
             "content": "<p>La fonction de résistance aux chutes est incroyable ! Je l'ai accidentellement laissé tomber plusieurs fois, mais il n'a pas été endommagé du tout. La qualité est solide comme le roc, vous n’avez donc pas à craindre de la casser !</p>",
             "link_url": "",
@@ -153,34 +153,11 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_1.png",
             "column_size": "3",
-            "title": "⭐ « Ce n’est pas une brosse, c’est une transformation »",
+            "title": "⭐ Incroyable ! Mon fils de 7 ans ne le lâche plus",
             "heading_tag": "h4",
-            "content": "<p>Je pensais acheter “juste” une brosse à dents… mais ce que j’ai reçu, c’est une routine qui change tout. Je me réveille avec la bouche plus fraîche, je n’ai plus cette sensation de dépôt sur les dents, et même mon entourage m’a fait des remarques sur mon sourire. C’est discret, puissant, et incroyablement efficace.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gV33Eb": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "⭐ « Elle a remplacé mon ancienne Oral-B du jour au lendemain »",
-            "heading_tag": "h4",
-            "content": "<p>Je ne suis pas facile à convaincre, mais cette brosse m’a scotchée. Design épuré, ultra confortable, et surtout… efficacité redoutable. En 3 jours, j’ai vu une différence sur la blancheur et la texture de mes dents. Elle fait partie de mes indispensables maintenant.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_V47HQi": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "⭐ « Fini les saignements, enfin un brossage sans douleur »",
-            "heading_tag": "h4",
-            "content": "<p>Avant, chaque brossage me faisait saigner. J’avais essayé plusieurs brosses électriques… aucune ne m’a soulagé comme celle-ci. Dès la première semaine, plus de saignement, plus de gêne. Et mes dents sont plus nettes qu’après un détartrage.</p>",
+            "content": "<p>Ce drone est super facile à utiliser, même pour un enfant. Il a résisté à plusieurs chutes sans une seule égratignure. Les lumières LED rendent l’expérience encore plus fun, surtout le soir. Enfin un jouet qui le sort des écrans ! Je recommande à 100 %.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -189,9 +166,7 @@
       },
       "block_order": [
         "item_dd3aCG",
-        "item_menNpN",
-        "item_gV33Eb",
-        "item_V47HQi"
+        "item_menNpN"
       ],
       "settings": {
         "full_width": true,
