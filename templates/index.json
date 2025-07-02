@@ -28,7 +28,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/BILALLLL.jpg",
+        "image": "shopify://shop_images/ChatGPT_Image_1_juil._2025_14_15_20.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
@@ -42,7 +42,7 @@
         "logo_axeiAX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1.1.webp",
+            "logo": "shopify://shop_images/la-grande-recre.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -50,7 +50,7 @@
         "logo_c7BEkb": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/5.png",
+            "logo": "shopify://shop_images/kingjouet.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -58,7 +58,7 @@
         "logo_b9PTke": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/6.png",
+            "logo": "shopify://shop_images/Logo_JoueClub_2016.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -66,7 +66,7 @@
         "logo_q4zYzr": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/m6.jpg",
+            "logo": "shopify://shop_images/logo_maxi-toys.png",
             "logo_width": 300,
             "link": ""
           }
@@ -100,7 +100,7 @@
         "heading_yp8GB8": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi Manéaa™ ?",
+            "text": "Pourquoi Flybotic ?",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -126,7 +126,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Benefices.png",
+        "image": "shopify://shop_images/6_benefices.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -140,7 +140,6 @@
         "item_dd3aCG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/55.png",
             "column_size": "3",
             "title": "⭐ « Cette brosse est passée à la télé, et elle mérite sa place »",
             "heading_tag": "h4",
@@ -153,7 +152,6 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_d95baffb-22c3-4c8f-8ae7-efee81c0cc68.png",
             "column_size": "3",
             "title": "⭐ « Ce n’est pas une brosse, c’est une transformation »",
             "heading_tag": "h4",
@@ -166,7 +164,6 @@
         "item_gV33Eb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/66.png",
             "column_size": "3",
             "title": "⭐ « Elle a remplacé mon ancienne Oral-B du jour au lendemain »",
             "heading_tag": "h4",
@@ -179,7 +176,6 @@
         "item_V47HQi": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1_f034a8db-e413-4539-a680-d3acfd1d1345.png",
             "column_size": "3",
             "title": "⭐ « Fini les saignements, enfin un brossage sans douleur »",
             "heading_tag": "h4",
