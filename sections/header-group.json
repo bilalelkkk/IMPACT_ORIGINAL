@@ -14,39 +14,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "LIVRAISON OFFERTE",
-            "url": ""
-          }
-        },
         "message_gU6CeW": {
           "type": "message",
           "settings": {
-            "text": "OFFRE LIMITÉE",
-            "url": ""
-          }
-        },
-        "message_LbACtE": {
-          "type": "message",
-          "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
+            "text": "Prochain réassort en DECEMBRE 📆",
             "url": ""
           }
         },
         "message_Wqhabm": {
           "type": "message",
           "settings": {
-            "text": "STOCKS BIENTÔT ÉPUISÉS",
+            "text": "Soldes d'été, profitez en ! ☀️",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
         "message_gU6CeW",
-        "message_LbACtE",
         "message_Wqhabm"
       ],
       "settings": {
