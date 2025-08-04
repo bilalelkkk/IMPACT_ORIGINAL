@@ -66,6 +66,7 @@
         "logo_q4zYzr": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/4.png",
             "logo_width": 300,
             "link": ""
           }
