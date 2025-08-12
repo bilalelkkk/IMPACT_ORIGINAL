@@ -15,7 +15,7 @@
         "heading_QXFJKK": {
           "type": "heading",
           "settings": {
-            "text": "Offre-lui le jouet qui va changer ses journées ☀️",
+            "text": "Stop aux aboiements, vive le calme.",
             "heading_tag": "h2"
           }
         }
@@ -31,7 +31,7 @@
         "image": "shopify://shop_images/Avis.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
-        "text_color": "#ffffff",
+        "text_color": "#1a1a1a",
         "overlay_color": "#000000",
         "overlay_opacity": 5
       }
