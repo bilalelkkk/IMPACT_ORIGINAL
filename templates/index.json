@@ -42,6 +42,7 @@
         "logo_axeiAX": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/M6.png",
             "logo_width": 300,
             "link": ""
           }
@@ -49,7 +50,7 @@
         "logo_c7BEkb": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/chewy.png",
+            "logo": "shopify://shop_images/111.png",
             "logo_width": 300,
             "link": ""
           }
@@ -57,7 +58,7 @@
         "logo_b9PTke": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/PetSmart.png",
+            "logo": "shopify://shop_images/logo-512-tout-chien.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -65,6 +66,7 @@
         "logo_q4zYzr": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Savoir.png",
             "logo_width": 300,
             "link": ""
           }
@@ -248,7 +250,7 @@
           "type": "tab",
           "settings": {
             "title": "Description",
-            "content": "<p>Offrez à votre enfant une expérience de jeu inoubliable avec notre <strong>mini drone sécurisé</strong>, conçu spécialement pour les plus jeunes. Facile à piloter, ultra résistant aux chutes et équipé de lumières LED, il transforme chaque instant en aventure aérienne.</p><p>✅ Parfait dès 6 ans<br/><br/>✅ Léger, sans danger pour l’intérieur ou l’extérieur<br/><br/>✅ Rechargeable par USB<br/><br/>✅ Matériaux résistants aux chocs</p><p>Un jouet qui stimule la concentration, la coordination et surtout… <strong>des heures de fun loin des écrans</strong>.</p>",
+            "content": "<p>Offrez à votre chien un quotidien plus calme avec notre répulsif anti-aboiement à ultrasons, sûr et sans douleur. Léger, portable et efficace en quelques secondes, il vous aide à stopper les aboiements excessifs partout où vous allez.<br/><br/>✅ Action immédiate et respectueuse<br/><br/>✅ Utilisable en intérieur comme en extérieur<br/><br/>✅ Portée jusqu’à 10 mètres<br/><br/>✅ Parfait pour les promenades, la maison ou la voiture<br/><br/>Un outil simple qui renforce votre complicité avec votre compagnon tout en préservant la tranquillité de votre environnement.</p>",
             "page": ""
           }
         }
@@ -288,43 +290,36 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "À partir de quel âge mon enfant peut-il utiliser ce drone ?",
-            "content": "<p>Le drone est conçu pour les enfants dès <strong>6 ans</strong>, grâce à un système de pilotage simplifié et sécurisé.</p>"
+            "title": "Comment fonctionne le répulsif anti-aboiement ?",
+            "content": "<p>Notre appareil émet un signal sonore à haute fréquence (ultrasons) que seuls les chiens peuvent entendre. Ce son capte immédiatement leur attention et interrompt leur comportement indésirable, comme les aboiements excessifs ou l’agitation.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Est-il dangereux ?",
-            "content": "<p>Absolument pas. Les hélices sont protégées dans une coque souple, et le drone est fabriqué en plastique léger et résistant. Il est pensé pour <strong>une utilisation 100 % sécurisée</strong>.</p>"
+            "title": "Est-ce douloureux ou dangereux pour mon chien ?",
+            "content": "<p>Non. Le signal est totalement inoffensif, indolore et respecte la santé auditive de l’animal. Il ne s’agit pas de punir, mais de détourner son attention pour l’aider à adopter un comportement plus calme.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Peut-on l’utiliser à l’intérieur ?",
-            "content": "<p>Oui ! Grâce à son format compact et sa stabilité, il peut être utilisé <strong>en intérieur comme en extérieur</strong> sans aucun risque pour les meubles ou les murs.</p>"
+            "title": "Mon chien va-t-il comprendre tout de suite ?",
+            "content": "<p>Dans la majorité des cas, une amélioration est visible dès les premières utilisations. Certains chiens peuvent nécessiter quelques jours d’adaptation, selon leur tempérament et leurs habitudes.</p>"
           }
         },
         "item_bEzrRk": {
           "type": "item",
           "settings": {
-            "title": "Est-il facile à piloter ?",
-            "content": "<p>Oui, le drone dispose d’un <strong>système de stabilisation automatique</strong> qui le rend très facile à contrôler, même pour les débutants. Il est livré avec une <strong>télécommande intuitive</strong>.</p>"
+            "title": "Est-ce utilisable à l’intérieur comme à l’extérieur ?",
+            "content": "<p>Absolument. L’appareil est portable et fonctionne aussi bien à la maison, au jardin, lors des promenades, en voiture ou même en vacances.</p>"
           }
         },
         "item_EcQiqr": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps peut-il voler ?",
-            "content": "<p>Une charge complète offre environ <strong>18 à 25 minutes de vol</strong>. Le drone se recharge via un <strong>câble USB inclus</strong> en moins d'une heure.</p>"
-          }
-        },
-        "item_cJpzEq": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que le drone est solide ?",
-            "content": "<p>Oui, il est fabriqué dans un matériau <strong>résistant aux chocs</strong>. Il peut tomber sans se casser, idéal pour les enfants qui apprennent encore à piloter.</p>"
+            "title": "Comment l’utiliser correctement ?",
+            "content": "<p>Tenez l’appareil en direction du chien au moment où il aboie ou adopte un comportement indésirable, puis activez-le pendant 1 à 2 secondes. Associez-le à un ordre clair comme “Stop” ou “Assis” pour renforcer l’apprentissage.</p>"
           }
         }
       },
@@ -333,8 +328,7 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2",
         "item_bEzrRk",
-        "item_EcQiqr",
-        "item_cJpzEq"
+        "item_EcQiqr"
       ],
       "settings": {
         "full_width": false,
