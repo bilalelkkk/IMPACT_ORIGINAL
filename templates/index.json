@@ -137,13 +137,14 @@
     "multi_column_Q48PaA": {
       "type": "multi-column",
       "blocks": {
-        "item_dd3aCG": {
+        "item_gkTinD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3.png",
             "column_size": "3",
-            "title": "⭐ Testé par les enfants, validé par les parents (et les murs) 🧱",
+            "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>La fonction de résistance aux chutes est incroyable ! Je l'ai accidentellement laissé tomber plusieurs fois, mais il n'a pas été endommagé du tout. La qualité est solide comme le roc, vous n’avez donc pas à craindre de la casser !</p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -152,6 +153,7 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2.png",
             "column_size": "3",
             "title": "⭐ Incroyable ! Mon fils de 7 ans ne le lâche plus",
             "heading_tag": "h4",
@@ -160,11 +162,25 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_dd3aCG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "column_size": "3",
+            "title": "⭐ Testé par les enfants, validé par les parents (et les murs) 🧱",
+            "heading_tag": "h4",
+            "content": "<p>La fonction de résistance aux chutes est incroyable ! Je l'ai accidentellement laissé tomber plusieurs fois, mais il n'a pas été endommagé du tout. La qualité est solide comme le roc, vous n’avez donc pas à craindre de la casser !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "item_dd3aCG",
-        "item_menNpN"
+        "item_gkTinD",
+        "item_menNpN",
+        "item_dd3aCG"
       ],
       "settings": {
         "full_width": true,
