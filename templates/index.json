@@ -142,9 +142,9 @@
           "settings": {
             "image": "shopify://shop_images/3.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "⭐ Une maison enfin paisible",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>À chaque coup de sonnette, c’était la panique : mon chien sautait, aboyait et devenait incontrôlable. Maintenant, avec Zenichien, il reste calme et tout le monde est plus détendu à la maison.<br/><br/>Karim Bensalem, 40 ans – Marseille (13)</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -155,9 +155,9 @@
           "settings": {
             "image": "shopify://shop_images/2.png",
             "column_size": "3",
-            "title": "⭐ Incroyable ! Mon fils de 7 ans ne le lâche plus",
+            "title": "⭐ Balades beaucoup plus agréables",
             "heading_tag": "h4",
-            "content": "<p>Ce drone est super facile à utiliser, même pour un enfant. Il a résisté à plusieurs chutes sans une seule égratignure. Les lumières LED rendent l’expérience encore plus fun, surtout le soir. Enfin un jouet qui le sort des écrans ! Je recommande à 100 %.</p>",
+            "content": "<p>Avant, mon chien se mettait à aboyer sur chaque personne ou chien croisé en promenade. C’était stressant pour lui et pour moi. Avec Zenichien, les sorties sont calmes et plaisantes, on profite enfin ensemble.<br/><br/>Sophie Legrand, 28 ans – Lille (59)</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -168,9 +168,9 @@
           "settings": {
             "image": "shopify://shop_images/1.png",
             "column_size": "3",
-            "title": "⭐ Testé par les enfants, validé par les parents (et les murs) 🧱",
+            "title": "⭐ Fini les aboiements la nuit",
             "heading_tag": "h4",
-            "content": "<p>La fonction de résistance aux chutes est incroyable ! Je l'ai accidentellement laissé tomber plusieurs fois, mais il n'a pas été endommagé du tout. La qualité est solide comme le roc, vous n’avez donc pas à craindre de la casser !</p>",
+            "content": "<p>Mon chien avait tendance à aboyer dès qu’il entendait un bruit dehors, surtout la nuit. Impossible de dormir correctement… Depuis que j’utilise le Zenichien, plus un seul réveil en pleine nuit, c’est magique !<br/><br/>Julien Martel, 34 ans – Bordeaux (33)</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
