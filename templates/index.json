@@ -11,12 +11,24 @@
   "sections": {
     "image_with_text_overlay_xTAHXM": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_rxMjnF": {
+          "type": "heading",
+          "settings": {
+            "text": "Soignez votre paix et celle de votre chien",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rxMjnF"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_15_aout_2025_15_10_27.png",
+        "image": "shopify://shop_images/Banniere_OK.png",
         "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#000000",
