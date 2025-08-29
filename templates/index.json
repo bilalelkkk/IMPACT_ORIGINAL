@@ -11,24 +11,13 @@
   "sections": {
     "image_with_text_overlay_xTAHXM": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_rxMjnF": {
-          "type": "heading",
-          "settings": {
-            "text": "Soignez votre paix et celle de votre chien",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rxMjnF"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Banniere_Good.png",
+        "image": "shopify://shop_images/Banniere_PC.png",
+        "mobile_image": "shopify://shop_images/Banniere_Tel.png",
         "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#000000",
@@ -42,7 +31,6 @@
         "logo_axeiAX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/M6.png",
             "logo_width": 300,
             "link": ""
           }
@@ -50,7 +38,6 @@
         "logo_c7BEkb": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/111.png",
             "logo_width": 300,
             "link": ""
           }
@@ -58,7 +45,6 @@
         "logo_b9PTke": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-512-tout-chien.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -66,7 +52,6 @@
         "logo_q4zYzr": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Savoir.png",
             "logo_width": 300,
             "link": ""
           }
@@ -126,7 +111,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Pk.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -140,7 +124,6 @@
         "item_gkTinD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "⭐ Une maison enfin paisible",
             "heading_tag": "h4",
@@ -153,7 +136,6 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
             "column_size": "3",
             "title": "⭐ Balades beaucoup plus agréables",
             "heading_tag": "h4",
@@ -166,7 +148,6 @@
         "item_dd3aCG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "⭐ Fini les aboiements la nuit",
             "heading_tag": "h4",
