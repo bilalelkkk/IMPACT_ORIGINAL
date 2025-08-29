@@ -198,7 +198,7 @@
         "liquid_y33WwQ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .zc-bullets {\n    --icon-color: #2F6CF6; /* couleur du ✅ */\n    --text-color: #111;    /* couleur du texte */\n  }\n  .zc-bullets ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n    display: grid;\n    gap: 8px; /* espace entre les lignes */\n  }\n  .zc-bullets li {\n    display: flex;\n    align-items: flex-start;\n    gap: 10px;\n    font-weight: 700;      /* texte en gras */\n    color: var(--text-color);\n    line-height: 1.35;\n    font-size: 18px;\n  }\n  .zc-bullets li::before {\n    content: \"✅\";\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    line-height: 1;\n    font-size: 18px;\n    margin-top: 1px; /* léger alignement vertical */\n  }\n\n  /* Option : réduire un peu sur mobile */\n  @media (max-width: 480px) {\n    .zc-bullets li { font-size: 16px; }\n    .zc-bullets li::before { font-size: 16px; }\n  }\n</style>\n\n<div class=\"zc-bullets\">\n  <ul>\n    <li>Dressez votre chien de manière humaine</li>\n    <li>Faites taire les aboiements en un rien de temps</li>\n    <li>Profitez d'une maison paisible et de promenades</li>\n  </ul>\n</div>"
+            "liquid": "<style>\n  .zc-bullets {\n    --icon-color: #2F6CF6; /* couleur du ✅ */\n    --text-color: #111;    /* couleur du texte */\n  }\n  .zc-bullets ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n    display: grid;\n    gap: 8px; /* espace entre les lignes */\n  }\n  .zc-bullets li {\n    display: flex;\n    align-items: flex-start;\n    gap: 10px;\n    font-weight: 700;      /* texte en gras */\n    color: var(--text-color);\n    line-height: 1.35;\n    font-size: 18px;\n  }\n  .zc-bullets li::before {\n    content: \"✅\";\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    line-height: 1;\n    font-size: 18px;\n    margin-top: 1px; /* léger alignement vertical */\n  }\n\n  /* Option : réduire un peu sur mobile */\n  @media (max-width: 480px) {\n    .zc-bullets li { font-size: 16px; }\n    .zc-bullets li::before { font-size: 16px; }\n  }\n</style>\n\n<div class=\"zc-bullets\">\n  <ul>\n    <li>Fini les cheveux qui tombent et s'affinent</li>\n    <li>Retrouvez des cheveux longs et plus épais</li>\n    <li>Des zones dégarnies comblées en moins de 3 mois</li>\n  </ul>\n</div>"
           }
         },
         "liquid_VpqWic": {
@@ -235,7 +235,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "appareil-anti-aboiements-a-ultrasons",
+        "product": "1",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
