@@ -38,7 +38,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#22a9d6",
+        "background": "#91b7d0",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -48,7 +48,6 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/Logo_OK.png",
         "logo_max_width": 150,
         "logo_mobile_max_width": 75,
         "menu": "main-menu",
