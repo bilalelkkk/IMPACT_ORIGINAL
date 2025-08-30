@@ -27,11 +27,19 @@
             "text": "Soldes d'été, profitez en ! ☀️",
             "url": ""
           }
+        },
+        "message_kFBLC7": {
+          "type": "message",
+          "settings": {
+            "text": "Marque Française  🇫🇷",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message_gU6CeW",
-        "message_Wqhabm"
+        "message_Wqhabm",
+        "message_kFBLC7"
       ],
       "settings": {
         "enable_sticky": false,
