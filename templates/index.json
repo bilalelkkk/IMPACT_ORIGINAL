@@ -123,6 +123,31 @@
         "overlay_opacity": 0
       }
     },
+    "before_after_image_3rM3wh": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Voyez la différence : Avant et Après",
+        "content": "",
+        "before_image": "shopify://shop_images/SUBLEAME_Angle_40_1_1.gif",
+        "after_image": "shopify://shop_images/SUBLEAME_Angle_40_1_1.gif",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#ffffff"
+      }
+    },
     "multi_column_Q48PaA": {
       "type": "multi-column",
       "blocks": {
@@ -387,6 +412,7 @@
     "logo_list_ceEwcB",
     "rich_text_3Pxxwq",
     "image_with_text_overlay_K6NJHd",
+    "before_after_image_3rM3wh",
     "multi_column_Q48PaA",
     "featured-product",
     "tabs_LtBVVp",
