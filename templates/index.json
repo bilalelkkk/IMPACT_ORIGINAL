@@ -286,14 +286,23 @@
         "tab_6gT89R": {
           "type": "tab",
           "settings": {
-            "title": "Description",
-            "content": "<p>Offrez à votre chien un quotidien plus calme avec notre répulsif anti-aboiement à ultrasons, sûr et sans douleur. Léger, portable et efficace en quelques secondes, il vous aide à stopper les aboiements excessifs partout où vous allez.<br/><br/>✅ Action immédiate et respectueuse<br/><br/>✅ Utilisable en intérieur comme en extérieur<br/><br/>✅ Portée jusqu’à 10 mètres<br/><br/>✅ Parfait pour les promenades, la maison ou la voiture<br/><br/>Un outil simple qui renforce votre complicité avec votre compagnon tout en préservant la tranquillité de votre environnement.</p>",
+            "title": "Ingrédients",
+            "content": "<p><strong>Copper Tripeptide-1 :</strong> Connu pour favoriser une barrière du cuir chevelu propre et hydratée.</p><p><strong>Caféine :</strong> Soutient des cheveux plus épais et d'apparence plus saine.</p><p><strong>Biotine :</strong> Stimule la production de nouvelles cellules dans les follicules pileux et favorise une croissance capillaire plus rapide et plus saine.</p><p><strong>Huile d’arbre à thé :</strong> Réduit et prévient l'accumulation excessive de sébum sur le cuir chevelu et dans les follicules pileux.</p><p><strong>Acides aminés :</strong> Renforcent les cheveux, combattent les frisottis et réduisent les effets de la casse.</p><p><strong>Extrait de feuille de romarin :</strong> Alternative naturelle au minoxidil pour favoriser la repousse des cheveux, en particulier pour l'alopécie androgénétique.</p><p><strong>Acide hyaluronique :</strong> Nourrit et hydrate le cuir chevelu pour un environnement capillaire propre et sain.</p><p><strong>LISTE COMPLÈTE DES INGRÉDIENTS :</strong><br/>Eau, Glycérine, Huile de feuille de Melaleuca Alternifolia (Arbre à thé), Acetyl Tetrapeptide-3, Copper Tripeptide-1, Caféine, Sodium PCA, Lactate de sodium, Arginine, Acide hyaluronique, Acide aspartique, PCA, Biotine, Glycine, Alanine, Huile de Mentha Piperita (Menthe poivrée), Huile d’Eucalyptus Globulus (Eucalyptus), Sérine, Menthol, Tocophérol, Valine, Proline, Thréonine, Isoleucine, Extrait de feuille de Rosmarinus Officinalis (Romarin), Extrait de feuille de Camellia Sinensis (Thé vert), Histidine, Phénylalanine, Gluconate de cuivre, Acide ascorbique, Phénylpropanol, Ethylhexylglycérine.</p>",
+            "page": ""
+          }
+        },
+        "tab_7kR3hi": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment l'utiliser ?",
+            "content": "<h4><strong>Préparation</strong></h4><p>1. Remplissez le réservoir avec une cartouche de sérum, puis revissez soigneusement la tête à micro-aiguilles.</p><p>2. Retournez l’appareil et laissez le sérum imprégner les micro-canaux pendant 1 à 2 minutes.</p><h4><strong>Application</strong></h4><p>1. Retirez le capuchon de protection et commencez l’application.</p><p>2. Appliquez l’appareil par pressions lentes et régulières, en ciblant les zones clairsemées.</p><p>3. Passez 2 à 3 fois sur chaque zone afin de favoriser une diffusion optimale du sérum.</p><p>4. Massez délicatement le cuir chevelu du bout des doigts pour stimuler la microcirculation et faciliter l’absorption.</p><h4><strong>Après le traitement</strong></h4><p>1. Retirez la tête à micro-aiguilles avec précaution et refermez l’appareil.</p><p>2. Nettoyez les parties amovibles si nécessaire et conservez l’appareil dans un endroit propre et sec.</p><p>À utiliser 3 fois par mois.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "tab_6gT89R"
+        "tab_6gT89R",
+        "tab_7kR3hi"
       ],
       "settings": {
         "full_width": true,
@@ -315,7 +324,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<style>\n  .trustpilot-reviews-section {\n    display: flex;\n    justify-content: space-between;\n    padding: 20px;\n    background-color: #ffffff;\n    border-radius: 8px;\n    position: relative;\n  }\n\n  .trustpilot-summary {\n    flex-basis: 20%;\n    text-align: left;\n  }\n\n  .trustpilot-summary h2 {\n    font-size: 24px;\n    font-weight: bold;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-stars img {\n    width: 100px;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-logo {\n    width: 50px; /* Taille réduite */\n    margin-top: 10px;\n  }\n\n  .review-carousel {\n    display: flex;\n    flex-basis: 75%;\n    overflow: hidden;\n    position: relative;\n  }\n\n  .review-card {\n    width: 270px;\n    padding: 15px;\n    margin-right: 15px;\n    background-color: #ffffff;\n    border: 1px solid #eaeaea;\n    border-radius: 8px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    transition: transform 0.3s ease;\n    flex-shrink: 0;\n  }\n\n  .review-card:hover {\n    transform: scale(1.05);\n  }\n\n  .review-card img {\n    width: 70px;\n  }\n\n  .review-card p {\n    margin: 5px 0;\n    font-size: 14px;\n  }\n\n  .review-card strong {\n    font-weight: bold;\n  }\n\n  .nav-arrow {\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    background-color: #f6f1e6;\n    border: 2px solid #ddd;\n    border-radius: 50%;\n    width: 40px;\n    height: 40px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n  }\n\n  .nav-arrow:hover {\n    background-color: #f6f1e6;\n    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);\n  }\n\n  .arrow-left {\n    left: -20px; \n  }\n\n  .arrow-right {\n    right: -20px; \n  }\n\n  .nav-arrow::before {\n    content: '';\n    display: block;\n    border: solid #333;\n    border-width: 0 3px 3px 0;\n    padding: 5px;\n  }\n\n  .arrow-left::before {\n    transform: rotate(135deg);\n  }\n\n  .arrow-right::before {\n    transform: rotate(-45deg);\n  }\n\n  @media (max-width: 768px) {\n    .trustpilot-reviews-section {\n      flex-direction: column;\n      padding: 10px;\n    }\n\n    .trustpilot-summary {\n      flex-basis: 100%;\n      text-align: center; \n      margin-bottom: 20px;\n    }\n\n    .trustpilot-stars img {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .trustpilot-logo {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .review-carousel {\n      flex-basis: 100%;\n      overflow-x: auto;\n      padding-bottom: 10px;\n    }\n\n    .review-card {\n      min-width: 85%;\n      margin-right: 10px;\n    }\n\n    .nav-arrow {\n      display: none;\n    }\n  }\n</style>\n\n<div class=\"trustpilot-reviews-section\">\n  <div class=\"trustpilot-summary\">\n    <h2>Excellent !</h2>\n    <div class=\"trustpilot-stars\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n    </div>\n    <p>Basé sur plus de 13,450 avis</p>\n    <img class=\"trustpilot-logo\" src=\"https://companieslogo.com/img/orig/TRST.L_BIG-743be58a.png?t=1720244494\">\n  </div>\n\n  <div class=\"review-carousel\" id=\"review-carousel\">\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p></p>\n      <p>Ça fonctionne très bien et je ne l'utilise pratiquement plus juste 2 jours et les aboiements intempestifs c'est fini. Un de mes chiens regarde la télé et aboie quand il y a des animaux même dans un dessin animé.</p>\n      <p><strong>Pascale C. – Paris, France</strong> - 23/01/2025</p>\n    </div>\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Livraison rapide, excellente qualité</p>\n      <p>La commande a été livrée très rapidement et la qualité du Zenichien est vraiment top. Une mention spéciale pour le packaging super bien fait.</p>\n      <p><strong>Amanda R. – Los Angeles, CA</strong> - 23/08/2024</p>\n    </div>\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Leur produit est une vraie plus-value</p>\n      <p>Je comprends maintenant pourquoi ce produit fait autant parler de lui. Bravo pour cette innovation, il mérite clairement son succès ici à Miami.</p>\n      <p><strong>Mike S. – Brooklyn, NY</strong> - 13/02/2025</p>\n    </div>\n  </div>\n\n  <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\"></button>\n  <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\"></button>\n</div>\n\n<script>\n  const reviewCarousel = document.getElementById('review-carousel');\n\n  function scrollReviews(direction) {\n    const scrollAmount = 320;\n    reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });\n  }\n\n  // Auto-scroll toutes les 3 secondes\n  let autoScrollInterval = setInterval(() => {\n    scrollReviews(1);\n  }, 3000);\n\n  // Stop auto-scroll quand l'utilisateur interagit\n  document.querySelectorAll('.nav-arrow').forEach(arrow => {\n    arrow.addEventListener('click', () => {\n      clearInterval(autoScrollInterval);\n    });\n  });\n</script>",
+        "liquid": "<style>\n  .trustpilot-reviews-section {\n    display: flex;\n    justify-content: space-between;\n    padding: 20px;\n    background-color: #ffffff;\n    border-radius: 8px;\n    position: relative;\n  }\n\n  .trustpilot-summary {\n    flex-basis: 20%;\n    text-align: left;\n  }\n\n  .trustpilot-summary h2 {\n    font-size: 24px;\n    font-weight: bold;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-stars img {\n    width: 100px;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-logo {\n    width: 50px; /* Taille réduite */\n    margin-top: 10px;\n  }\n\n  .review-carousel {\n    display: flex;\n    flex-basis: 75%;\n    overflow: hidden;\n    position: relative;\n  }\n\n  .review-card {\n    width: 270px;\n    padding: 15px;\n    margin-right: 15px;\n    background-color: #ffffff;\n    border: 1px solid #eaeaea;\n    border-radius: 8px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    transition: transform 0.3s ease;\n    flex-shrink: 0;\n  }\n\n  .review-card:hover {\n    transform: scale(1.05);\n  }\n\n  .review-card img {\n    width: 70px;\n  }\n\n  .review-card p {\n    margin: 5px 0;\n    font-size: 14px;\n  }\n\n  .review-card strong {\n    font-weight: bold;\n  }\n\n  .nav-arrow {\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    background-color: #f6f1e6;\n    border: 2px solid #ddd;\n    border-radius: 50%;\n    width: 40px;\n    height: 40px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n  }\n\n  .nav-arrow:hover {\n    background-color: #f6f1e6;\n    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);\n  }\n\n  .arrow-left {\n    left: -20px; \n  }\n\n  .arrow-right {\n    right: -20px; \n  }\n\n  .nav-arrow::before {\n    content: '';\n    display: block;\n    border: solid #333;\n    border-width: 0 3px 3px 0;\n    padding: 5px;\n  }\n\n  .arrow-left::before {\n    transform: rotate(135deg);\n  }\n\n  .arrow-right::before {\n    transform: rotate(-45deg);\n  }\n\n  @media (max-width: 768px) {\n    .trustpilot-reviews-section {\n      flex-direction: column;\n      padding: 10px;\n    }\n\n    .trustpilot-summary {\n      flex-basis: 100%;\n      text-align: center; \n      margin-bottom: 20px;\n    }\n\n    .trustpilot-stars img {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .trustpilot-logo {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .review-carousel {\n      flex-basis: 100%;\n      overflow-x: auto;\n      padding-bottom: 10px;\n    }\n\n    .review-card {\n      min-width: 85%;\n      margin-right: 10px;\n    }\n\n    .nav-arrow {\n      display: none;\n    }\n  }\n</style>\n\n<div class=\"trustpilot-reviews-section\">\n  <div class=\"trustpilot-summary\">\n    <h2>Excellent !</h2>\n    <div class=\"trustpilot-stars\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n    </div>\n    <p>Basé sur plus de 13,450 avis</p>\n    <img class=\"trustpilot-logo\" src=\"https://companieslogo.com/img/orig/TRST.L_BIG-743be58a.png?t=1720244494\">\n  </div>\n\n  <div class=\"review-carousel\" id=\"review-carousel\">\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p></p>\n      <p>Honnêtement, j'étais très sceptique car aucun produit n'avait fonctionné pour moi mais quand on est désespérée comme moi on est prêts à tout essayer, et je ne regrette pas. En seulement 4 mois mon cuir chevelu se remplit bien et mes cheveux poussent en meilleure santé</p>\n      <p><strong>Manuelle</strong> - 23/01/2025</p>\n    </div>\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p></p>\n      <p>Franchement c’est hallucinant, je regrette de ne pas avoir connu ça plus tot. j’ai perdu tellement de temps aux shampoings, aux gummies, huiles… mes cheveux ne repoussaient pas et en 1 mois et demi de micro infusion tout a changé merci Keralis pour cette découverte.</p>\n      <p><strong>Jade</strong> - 04/05/2024</p>\n    </div>\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p></p>\n      <p>Suite à ma grossesse, je perdais beaucoup de cheveux. Après 1 utilisation, je sens une nette amélioration sur la chute et plein de nouvelles repousses. Je continue pour voir ce que ça va donner sur les 3 mois.</p>\n      <p><strong>Joliane</strong> - 13/07/2025</p>\n    </div>\n  </div>\n\n  <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\"></button>\n  <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\"></button>\n</div>\n\n<script>\n  const reviewCarousel = document.getElementById('review-carousel');\n\n  function scrollReviews(direction) {\n    const scrollAmount = 320;\n    reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });\n  }\n\n  // Auto-scroll toutes les 3 secondes\n  let autoScrollInterval = setInterval(() => {\n    scrollReviews(1);\n  }, 3000);\n\n  // Stop auto-scroll quand l'utilisateur interagit\n  document.querySelectorAll('.nav-arrow').forEach(arrow => {\n    arrow.addEventListener('click', () => {\n      clearInterval(autoScrollInterval);\n    });\n  });\n</script>",
         "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": ""
@@ -324,47 +333,79 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_Jn48yM": {
+          "type": "item",
+          "settings": {
+            "title": "Comment utiliser le système de micro-infusion Keralis ?",
+            "content": "<p>C'est simple : commencez par vous laver les cheveux. Remplissez l'appareil de sérum à partir du flacon en verre et fixez les poils stériles. Appliquez délicatement l'appareil sur les zones à problèmes, de la racine des cheveux jusqu'au sommet du crâne. Chaque kit comprend deux appareils complets avec sérum ; utilisez-en un toutes les deux semaines.</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne le répulsif anti-aboiement ?",
-            "content": "<p>Notre appareil émet un signal sonore à haute fréquence (ultrasons) que seuls les chiens peuvent entendre. Ce son capte immédiatement leur attention et interrompt leur comportement indésirable, comme les aboiements excessifs ou l’agitation.</p>"
+            "title": "Comment fonctionne le système de repousse Keralis ?",
+            "content": "<p>Notre système de micro-infusion utilise de fines micro-aiguilles pour infuser des actifs puissants directement au niveau du cuir chevelu, favorisant la circulation sanguine, la nutrition du follicule et la stimulation de la pousse.</p>"
+          }
+        },
+        "item_CwAmxh": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sans danger et indolore à utiliser ?",
+            "content": "<p>Absolument ! Le système est non invasif, indolore et testé dermatologiquement pour garantir une utilisation sécurisée à domicile.Les aiguilles de 0,5 mm sont parfaitement sûrs pour une utilisation à domicile. Plus courts qu'un demi-millimètre, vous ne sentirez rien. Ils sont aussi confortables qu'une brosse à dents sur la peau. Les poils minuscules créent de petits canaux pour permettre au sérum de pénétrer plus profondément. De plus, les aiguilles plaquées or sont hypoallergéniques. Chaque tête de tampon est stérile et à usage unique. Il n'y a donc aucun risque d'infection.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Est-ce douloureux ou dangereux pour mon chien ?",
-            "content": "<p>Non. Le signal est totalement inoffensif, indolore et respecte la santé auditive de l’animal. Il ne s’agit pas de punir, mais de détourner son attention pour l’aider à adopter un comportement plus calme.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "Mon chien va-t-il comprendre tout de suite ?",
-            "content": "<p>Dans la majorité des cas, une amélioration est visible dès les premières utilisations. Certains chiens peuvent nécessiter quelques jours d’adaptation, selon leur tempérament et leurs habitudes.</p>"
+            "title": "Est ce que cela fonctionne sur l'alopécie androgénétique ou les pelades ?",
+            "content": "<p>Oui, notre système a été conçu même pour les problématiques les plus complexes.</p><p>Le système de micro-infusion Keralis est conçu pour stimuler la repousse des cheveux quel que soit le type d’alopécie, y compris l’alopécie androgénétique (chute héréditaire progressive) et l’alopécie areata (pelade).</p><p>Notre technologie combine le microneedling et une formule concentrée d’actifs puissants (biotine, peptides, extraits de plantes reconnues) pour réactiver les follicules affaiblis, améliorer la circulation sanguine du cuir chevelu et favoriser une meilleure densité capillaire.</p><p>Nous recommandons cependant une cure de 3 à 4 mois minimum pour commencer à observer les premiers résultats, car ces types d’alopécie nécessitent une stimulation régulière et un traitement sur la durée.</p>"
           }
         },
         "item_bEzrRk": {
           "type": "item",
           "settings": {
-            "title": "Est-ce utilisable à l’intérieur comme à l’extérieur ?",
-            "content": "<p>Absolument. L’appareil est portable et fonctionne aussi bien à la maison, au jardin, lors des promenades, en voiture ou même en vacances.</p>"
+            "title": "Quand vais-je commencer à voir des résultats ?",
+            "content": "<p>De nombreux utilisateurs constatent des améliorations visibles de la texture et de la croissance des cheveux en 4 à 6 semaines d'utilisation régulière. Les résultats peuvent varier d'une personne à l'autre.</p>"
+          }
+        },
+        "item_CHmG38": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce efficace pour les hommes ?",
+            "content": "<p>Absolument ! Notre kit est conçu pour tous les types de cheveux et agit aussi bien sur les alopécies masculines que féminines grâce à ses actifs puissants qui pénètrent dans les racines.</p>"
+          }
+        },
+        "item_zqfgCj": {
+          "type": "item",
+          "settings": {
+            "title": "Est ce la même efficacité qu'une huile classique ?",
+            "content": "<p>Non, votre cuir chevelu bloque naturellement la plupart des produits capillaires, ne laissant que 2 % d'entre eux atteindre les follicules. Ils ne pénètrent jamais assez profondément là où ça compte. Le système de micro-infusion délivre le sérum de croissance directement aux follicules, là où il est le plus nécessaire, pour une absorption et efficacité à 100 %.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Nous livrons en 6 à 8 jours à domicile !</p>"
           }
         },
         "item_EcQiqr": {
           "type": "item",
           "settings": {
-            "title": "Comment l’utiliser correctement ?",
-            "content": "<p>Tenez l’appareil en direction du chien au moment où il aboie ou adopte un comportement indésirable, puis activez-le pendant 1 à 2 secondes. Associez-le à un ordre clair comme “Stop” ou “Assis” pour renforcer l’apprentissage.</p>"
+            "title": "Y a t-il une garantie ?",
+            "content": "<p>Notre dévouement à assurer votre satisfaction est indéniable dans la qualité de nos produits, et nous le garantissons avec une <strong>garantie de remboursement à 100 % de 60 jours.</strong></p><p>Pour bénéficier de cette garantie, tout ce que nous vous demandons est de donner une chance équitable à notre produit.</p><p>Si, après cette période initiale, vous n'êtes pas entièrement satisfait, nous procéderons rapidement à un remboursement intégral. Pour effectuer un retour, veuillez nous contacter. Votre satisfaction est notre priorité absolue.</p>"
           }
         }
       },
       "block_order": [
+        "item_Jn48yM",
         "166442457738b23caf-0",
+        "item_CwAmxh",
         "166442457738b23caf-1",
-        "166442457738b23caf-2",
         "item_bEzrRk",
+        "item_CHmG38",
+        "item_zqfgCj",
+        "166442457738b23caf-2",
         "item_EcQiqr"
       ],
       "settings": {
