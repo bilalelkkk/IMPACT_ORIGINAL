@@ -21,13 +21,6 @@
             "url": ""
           }
         },
-        "message_Wqhabm": {
-          "type": "message",
-          "settings": {
-            "text": "Soldes d'été, profitez en ! ☀️",
-            "url": ""
-          }
-        },
         "message_kFBLC7": {
           "type": "message",
           "settings": {
@@ -38,7 +31,6 @@
       },
       "block_order": [
         "message_gU6CeW",
-        "message_Wqhabm",
         "message_kFBLC7"
       ],
       "settings": {
