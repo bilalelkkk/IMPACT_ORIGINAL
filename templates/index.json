@@ -83,29 +83,46 @@
         "logo_item_border": ""
       }
     },
-    "before_after_image_3rM3wh": {
-      "type": "before-after-image",
-      "name": "Before/after image",
+    "rich_text_XHjrG7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_A7GCR4": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultats avant/après",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_A7GCR4"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Voyez la différence : Avant et Après",
-        "content": "",
-        "before_image": "shopify://shop_images/SUBLEAME_Angle_40_1_1.gif",
-        "after_image": "shopify://shop_images/SUBLEAME_Angle_40_1_1.gif",
-        "expand_image": false,
+        "content_width": "small",
         "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#ffffff"
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_GrQ4Mn": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/SUBLEAME_Angle_40_1_1.gif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "rich_text_3Pxxwq": {
@@ -461,7 +478,8 @@
   "order": [
     "image_with_text_overlay_xTAHXM",
     "logo_list_ceEwcB",
-    "before_after_image_3rM3wh",
+    "rich_text_XHjrG7",
+    "image_with_text_overlay_GrQ4Mn",
     "rich_text_3Pxxwq",
     "image_with_text_overlay_K6NJHd",
     "multi_column_Q48PaA",
