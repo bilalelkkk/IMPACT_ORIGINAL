@@ -16,8 +16,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Banniere_PC_OK.png",
-        "mobile_image": "shopify://shop_images/Banniere_TEL_OK.png",
         "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#000000",
@@ -31,7 +29,7 @@
         "logo_axeiAX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Bilal.svg",
+            "logo": "shopify://shop_images/TF1_Logo.png",
             "logo_width": 300,
             "link": ""
           }
@@ -39,7 +37,7 @@
         "logo_c7BEkb": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/VOGUE_LOGO.svg",
+            "logo": "shopify://shop_images/Logo_M6__2020__fond_clair__svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -47,7 +45,7 @@
         "logo_b9PTke": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo": "shopify://shop_images/Les_Echos111.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -55,7 +53,7 @@
         "logo_q4zYzr": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/glamour_logo_icon_171087.png",
+            "logo": "shopify://shop_images/Le_Figaro1.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -89,7 +87,7 @@
         "heading_A7GCR4": {
           "type": "heading",
           "settings": {
-            "text": "Résultats avant/après",
+            "text": "Résultats Avant/Après",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -117,7 +115,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/SUBLEAME_Angle_40_1_1.gif",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -131,7 +128,7 @@
         "heading_yp8GB8": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir Keralis ?",
+            "text": "Pourquoi choisir BilSmile ?",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -157,7 +154,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/PK_Keralis.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -171,7 +167,6 @@
         "item_gkTinD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Keralis_1.png",
             "column_size": "3",
             "title": "EN 4 MOIS - Après une Perte excessive de cheveux",
             "heading_tag": "h4",
@@ -184,7 +179,6 @@
         "item_GaxwF7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Keralis_4.png",
             "column_size": "3",
             "title": "EN 3 MOIS - Follicules affaiblis et endormis",
             "heading_tag": "h4",
@@ -197,7 +191,6 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Keralis_2.png",
             "column_size": "3",
             "title": "EN 3 MOIS - Après une Grossesse difficile",
             "heading_tag": "h4",
@@ -254,12 +247,6 @@
             "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Derniers articles en stock&nbsp;!</strong>\n  </span>\n</div>\n\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #dc2626; /* Rouge pour le texte */\n}\n\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #dc2626; /* Rouge principal */\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(220, 38, 38, 0.3); /* Halo rouge clair */\n}\n\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #f87171; /* Rouge clair pour l’effet pulsé */\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
           }
         },
-        "kaching_bundles_app_block_7byy8W": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -283,7 +270,6 @@
         "title",
         "liquid_y33WwQ",
         "liquid_VpqWic",
-        "kaching_bundles_app_block_7byy8W",
         "buy-buttons",
         "liquid_FNcGAH"
       ],
