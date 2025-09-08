@@ -167,10 +167,11 @@
         "item_gkTinD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis_-_Prod_1.png",
             "column_size": "3",
-            "title": "EN 4 MOIS - Après une Perte excessive de cheveux",
+            "title": "EN 2 SEMAINES – Un gain de temps fou",
             "heading_tag": "h4",
-            "content": "<p>Je perdais mes cheveux par poignée dû à mon alopécie androgénétique. Depuis que j’utilise ce soin, la chute a nettement ralenti. Je respire enfin.<br/><br/>Jennifer V.</p>",
+            "content": "<p>Je détestais me brosser les dents trop longtemps le matin. Depuis que j’utilise cette brosse, en 20 secondes c’est réglé et ma bouche est ultra-propre. Je ne pourrai plus revenir en arrière.<br/><br/>Jennifer V.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -179,10 +180,11 @@
         "item_GaxwF7": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis_-_Prod_2_10a77d98-6f25-487c-b817-7fb6af1345a9.png",
             "column_size": "3",
-            "title": "EN 3 MOIS - Follicules affaiblis et endormis",
+            "title": "EN 1 MOIS – Des dents plus lisses",
             "heading_tag": "h4",
-            "content": "<p>Mes follicules étaient complètement endormis. Aujourd’hui, je vois des repousses là où je n’en attendais plus. C’est impressionnant.<br/><br/>Marie-Ange.</p>",
+            "content": "<p>Avec ma brosse manuelle, j’avais toujours l’impression d’avoir encore de la plaque. Là, tout est différent : mes dents restent lisses toute la journée et mon haleine est plus fraîche. Je recommande à 100 %.<br/><br/>Sami B.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -191,10 +193,11 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis_-_Prod_3.png",
             "column_size": "3",
-            "title": "EN 3 MOIS - Après une Grossesse difficile",
+            "title": "EN 6 SEMAINES – Sourire éclatant",
             "heading_tag": "h4",
-            "content": "<p>Après une chute de cheveux sévère dû a ma grossesse, mon cuir chevelu était visible. En 6 semaines, mes tempes repoussent, les zones chauves disparaissent. Facile à utiliser, c’est devenu mon rituel. J’adore !<br/><br/>Karen M. </p>",
+            "content": "<p>Je l’ai achetée surtout pour gagner du temps, mais je suis bluffée par le résultat : mes dents paraissent plus blanches et mes gencives ne saignent plus. C’est devenu un indispensable !<br/><br/>Vincent A. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
