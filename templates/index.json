@@ -301,7 +301,7 @@
           "type": "tab",
           "settings": {
             "title": "Description",
-            "content": "<p><strong>Copper Tripeptide-1 :</strong> Connu pour favoriser une barrière du cuir chevelu propre et hydratée.</p><p><strong>Caféine :</strong> Soutient des cheveux plus épais et d'apparence plus saine.</p><p><strong>Biotine :</strong> Stimule la production de nouvelles cellules dans les follicules pileux et favorise une croissance capillaire plus rapide et plus saine.</p><p><strong>Huile d’arbre à thé :</strong> Réduit et prévient l'accumulation excessive de sébum sur le cuir chevelu et dans les follicules pileux.</p><p><strong>Acides aminés :</strong> Renforcent les cheveux, combattent les frisottis et réduisent les effets de la casse.</p><p><strong>Extrait de feuille de romarin :</strong> Alternative naturelle au minoxidil pour favoriser la repousse des cheveux, en particulier pour l'alopécie androgénétique.</p><p><strong>Acide hyaluronique :</strong> Nourrit et hydrate le cuir chevelu pour un environnement capillaire propre et sain.</p><p><strong>LISTE COMPLÈTE DES INGRÉDIENTS :</strong><br/>Eau, Glycérine, Huile de feuille de Melaleuca Alternifolia (Arbre à thé), Acetyl Tetrapeptide-3, Copper Tripeptide-1, Caféine, Sodium PCA, Lactate de sodium, Arginine, Acide hyaluronique, Acide aspartique, PCA, Biotine, Glycine, Alanine, Huile de Mentha Piperita (Menthe poivrée), Huile d’Eucalyptus Globulus (Eucalyptus), Sérine, Menthol, Tocophérol, Valine, Proline, Thréonine, Isoleucine, Extrait de feuille de Rosmarinus Officinalis (Romarin), Extrait de feuille de Camellia Sinensis (Thé vert), Histidine, Phénylalanine, Gluconate de cuivre, Acide ascorbique, Phénylpropanol, Ethylhexylglycérine.</p>",
+            "content": "<p>Le pack comprend tout le nécessaire pour une utilisation immédiate :</p><ul><li><br/>un manche ergonomique,<br/></li><li><br/>une tête de brosse sonique,<br/></li><li><br/>un câble de charge USB,<br/></li><li><br/>ainsi qu’un applicateur de dentifrice.<br/></li></ul><p>Pratique et complet, il vous permet de profiter directement de tous les avantages de votre nouvelle brosse à dents sonique.</p>",
             "page": ""
           }
         },
@@ -350,64 +350,64 @@
         "item_Jn48yM": {
           "type": "item",
           "settings": {
-            "title": "Comment utiliser le système de micro-infusion Keralis ?",
-            "content": "<p>C'est simple : commencez par vous laver les cheveux. Remplissez l'appareil de sérum à partir du flacon en verre et fixez les poils stériles. Appliquez délicatement l'appareil sur les zones à problèmes, de la racine des cheveux jusqu'au sommet du crâne. Chaque kit comprend deux appareils complets avec sérum ; utilisez-en un toutes les deux semaines.</p>"
+            "title": "Combien de temps dure le brossage ?",
+            "content": "<p>Seulement <strong>20 secondes suffisent</strong> pour un nettoyage complet, contre 2 minutes avec une brosse classique.</p>"
           }
         },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne le système de repousse Keralis ?",
-            "content": "<p>Notre système de micro-infusion utilise de fines micro-aiguilles pour infuser des actifs puissants directement au niveau du cuir chevelu, favorisant la circulation sanguine, la nutrition du follicule et la stimulation de la pousse.</p>"
+            "title": "Est-ce que ça nettoie aussi bien qu’une brosse manuelle ?",
+            "content": "<p>Oui. La technologie sonique élimine jusqu’à <strong>2x plus de plaque</strong> et atteint les zones difficiles d’accès.</p>"
           }
         },
         "item_CwAmxh": {
           "type": "item",
           "settings": {
-            "title": "Est-ce sans danger et indolore à utiliser ?",
-            "content": "<p>Absolument ! Le système est non invasif, indolore et testé dermatologiquement pour garantir une utilisation sécurisée à domicile.Les aiguilles de 0,5 mm sont parfaitement sûrs pour une utilisation à domicile. Plus courts qu'un demi-millimètre, vous ne sentirez rien. Ils sont aussi confortables qu'une brosse à dents sur la peau. Les poils minuscules créent de petits canaux pour permettre au sérum de pénétrer plus profondément. De plus, les aiguilles plaquées or sont hypoallergéniques. Chaque tête de tampon est stérile et à usage unique. Il n'y a donc aucun risque d'infection.</p>"
+            "title": "Est-elle adaptée aux enfants ?",
+            "content": "<p>Oui, la brosse peut être utilisée dès l’adolescence. Pour les plus jeunes, nous recommandons la surveillance d’un adulte.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Est ce que cela fonctionne sur l'alopécie androgénétique ou les pelades ?",
-            "content": "<p>Oui, notre système a été conçu même pour les problématiques les plus complexes.</p><p>Le système de micro-infusion Keralis est conçu pour stimuler la repousse des cheveux quel que soit le type d’alopécie, y compris l’alopécie androgénétique (chute héréditaire progressive) et l’alopécie areata (pelade).</p><p>Notre technologie combine le microneedling et une formule concentrée d’actifs puissants (biotine, peptides, extraits de plantes reconnues) pour réactiver les follicules affaiblis, améliorer la circulation sanguine du cuir chevelu et favoriser une meilleure densité capillaire.</p><p>Nous recommandons cependant une cure de 3 à 4 mois minimum pour commencer à observer les premiers résultats, car ces types d’alopécie nécessitent une stimulation régulière et un traitement sur la durée.</p>"
+            "title": "Est-ce que ça fait mal aux gencives ?",
+            "content": "<p>Non, au contraire ! Les vibrations soniques massent et stimulent les gencives en douceur, ce qui contribue à une meilleure santé bucco-dentaire.</p>"
           }
         },
         "item_bEzrRk": {
           "type": "item",
           "settings": {
-            "title": "Quand vais-je commencer à voir des résultats ?",
-            "content": "<p>De nombreux utilisateurs constatent des améliorations visibles de la texture et de la croissance des cheveux en 4 à 6 semaines d'utilisation régulière. Les résultats peuvent varier d'une personne à l'autre.</p>"
+            "title": "Peut-elle blanchir les dents ?",
+            "content": "<p>Avec un usage régulier, elle aide à réduire les taches superficielles (café, thé, vin, tabac) pour des <strong>dents plus blanches naturellement</strong>.</p>"
           }
         },
         "item_CHmG38": {
           "type": "item",
           "settings": {
-            "title": "Est-ce efficace pour les hommes ?",
-            "content": "<p>Absolument ! Notre kit est conçu pour tous les types de cheveux et agit aussi bien sur les alopécies masculines que féminines grâce à ses actifs puissants qui pénètrent dans les racines.</p>"
+            "title": "Combien de temps dure la batterie ?",
+            "content": "<p>Jusqu’à <strong>30 jours d’autonomie</strong> après une seule charge. Idéal pour voyager.</p>"
           }
         },
         "item_zqfgCj": {
           "type": "item",
           "settings": {
-            "title": "Est ce la même efficacité qu'une huile classique ?",
-            "content": "<p>Non, votre cuir chevelu bloque naturellement la plupart des produits capillaires, ne laissant que 2 % d'entre eux atteindre les follicules. Ils ne pénètrent jamais assez profondément là où ça compte. Le système de micro-infusion délivre le sérum de croissance directement aux follicules, là où il est le plus nécessaire, pour une absorption et efficacité à 100 %.</p>"
+            "title": "Comment remplacer les têtes de brosse ?",
+            "content": "<p>Les têtes sont <strong>facilement remplaçables</strong>. Pour une hygiène optimale, changez-les tous les <strong>3 mois</strong>, comme une brosse classique.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>Nous livrons en 6 à 8 jours à domicile !</p>"
+            "title": "Est-ce que je peux utiliser mon dentifrice habituel ?",
+            "content": "<p>Oui, il suffit d’appliquer votre dentifrice directement sur la brosse. Aucun produit spécial n’est nécessaire.</p>"
           }
         },
         "item_EcQiqr": {
           "type": "item",
           "settings": {
-            "title": "Y a t-il une garantie ?",
-            "content": "<p>Notre dévouement à assurer votre satisfaction est indéniable dans la qualité de nos produits, et nous le garantissons avec une <strong>garantie de remboursement à 100 % de 60 jours.</strong></p><p>Pour bénéficier de cette garantie, tout ce que nous vous demandons est de donner une chance équitable à notre produit.</p><p>Si, après cette période initiale, vous n'êtes pas entièrement satisfait, nous procéderons rapidement à un remboursement intégral. Pour effectuer un retour, veuillez nous contacter. Votre satisfaction est notre priorité absolue.</p>"
+            "title": "Est-ce que ça convient si je porte un appareil dentaire ?",
+            "content": "<p>Oui, la brosse sonique peut être utilisée avec un appareil, des implants ou des couronnes, sans risque.</p>"
           }
         }
       },
