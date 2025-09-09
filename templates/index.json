@@ -17,7 +17,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/5_Raisons_de_remplacer_votre_vieux_portefeuille_par_Reign_5_964e10b8-4a73-4006-be6e-500b0f99fe78.png",
-        "mobile_image": "shopify://shop_images/5_Raisons_de_remplacer_votre_vieux_portefeuille_par_Reign_5_1e6f9ce9-ca08-4941-a184-6878e237ba1f.png",
+        "mobile_image": "shopify://shop_images/5_Raisons_de_remplacer_votre_vieux_portefeuille_par_Reign.png",
         "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#000000",
