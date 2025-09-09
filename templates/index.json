@@ -15,7 +15,7 @@
         "heading_dUjCEU": {
           "type": "heading",
           "settings": {
-            "text": "Des soins bucco-dentaires plus intelligents. Des sourires plus sains",
+            "text": "Prenez soin de votre bouche. Souriez mieux, naturellement.",
             "heading_tag": "h2"
           }
         }
@@ -29,7 +29,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/5_Raisons_de_remplacer_votre_vieux_portefeuille_par_Reign_5_964e10b8-4a73-4006-be6e-500b0f99fe78.png",
-        "mobile_image": "shopify://shop_images/5_Raisons_de_remplacer_votre_vieux_portefeuille_par_Reign_1.png",
+        "mobile_image": "shopify://shop_images/5_Raisons_de_remplacer_votre_vieux_portefeuille_par_Reign_eb83fcbe-9a5b-4690-8f73-d359c371430a.png",
         "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#000000",
