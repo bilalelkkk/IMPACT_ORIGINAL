@@ -158,7 +158,7 @@
             "column_size": "3",
             "title": "EN 2 SEMAINES – Un gain de temps fou",
             "heading_tag": "h4",
-            "content": "<p>Je détestais me brosser les dents trop longtemps le matin. Depuis que j’utilise cette brosse, en 20 secondes c’est réglé et ma bouche est ultra-propre. Je ne pourrai plus revenir en arrière.<br/><br/>Jennifer V.</p>",
+            "content": "<p>Je détestais me brosser les dents trop longtemps le matin. Depuis que j’utilise cette brosse, en 30 secondes c’est réglé et ma bouche est ultra-propre. Je ne pourrai plus revenir en arrière.<br/><br/>Jennifer V.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -352,7 +352,7 @@
           "type": "item",
           "settings": {
             "title": "Combien de temps dure le brossage ?",
-            "content": "<p>Seulement <strong>20 secondes suffisent</strong> pour un nettoyage complet, contre 2 minutes avec une brosse classique.</p>"
+            "content": "<p>Seulement <strong>30 secondes suffisent</strong> pour un nettoyage complet, contre 2 minutes avec une brosse classique.</p>"
           }
         },
         "166442457738b23caf-0": {
