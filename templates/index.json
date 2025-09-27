@@ -11,25 +11,12 @@
   "sections": {
     "image_with_text_overlay_xTAHXM": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_dUjCEU": {
-          "type": "heading",
-          "settings": {
-            "text": "Prenez soin de votre bouche. Souriez mieux, naturellement.",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_dUjCEU"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/5_Raisons_de_remplacer_votre_vieux_portefeuille_par_Reign_be41a234-56dd-44c8-a0bb-c7e4e2a095e1.png",
-        "mobile_image": "shopify://shop_images/5_Raisons_de_remplacer_votre_vieux_portefeuille_par_Reign_1_cb002f5b-a18f-4908-85ac-2b60edcd4a4d.png",
+        "image": "shopify://shop_images/imgi_3.webp",
         "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#000000",
@@ -43,7 +30,6 @@
         "logo_axeiAX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/TF1_Logo.png",
             "logo_width": 300,
             "link": ""
           }
@@ -51,7 +37,6 @@
         "logo_c7BEkb": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo_M6__2020__fond_clair__svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -59,7 +44,6 @@
         "logo_b9PTke": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Les_Echos111.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -67,7 +51,6 @@
         "logo_q4zYzr": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Le_Figaro1.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -140,7 +123,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/6_benefices_7233ea25-8b95-46c6-bf26-b311c067ceaf.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -154,7 +136,6 @@
         "item_gkTinD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_-_Prod_1.png",
             "column_size": "3",
             "title": "EN 2 SEMAINES – Un gain de temps fou",
             "heading_tag": "h4",
@@ -167,7 +148,6 @@
         "item_GaxwF7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_-_Prod_2_10a77d98-6f25-487c-b817-7fb6af1345a9.png",
             "column_size": "3",
             "title": "EN 1 MOIS – Des dents plus lisses",
             "heading_tag": "h4",
@@ -180,7 +160,6 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_-_Prod_3.png",
             "column_size": "3",
             "title": "EN 6 SEMAINES – Sourire éclatant",
             "heading_tag": "h4",
