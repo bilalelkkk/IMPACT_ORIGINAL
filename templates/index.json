@@ -128,6 +128,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/6_benefices.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -141,11 +142,11 @@
         "item_gkTinD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/imgi_4.webp",
+            "image": "shopify://shop_images/imgi_55.webp",
             "column_size": "3",
-            "title": "EN 2 SEMAINES – Un gain de temps fou",
-            "heading_tag": "h4",
-            "content": "<p>Je détestais me brosser les dents trop longtemps le matin. Depuis que j’utilise cette brosse, en 30 secondes c’est réglé et ma bouche est ultra-propre. Je ne pourrai plus revenir en arrière.<br/><br/>Jennifer V.</p>",
+            "title": "Technologies des verres",
+            "heading_tag": "h3",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -154,11 +155,11 @@
         "item_GaxwF7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis.jpg",
+            "image": "shopify://shop_images/imgi_59.webp",
             "column_size": "3",
-            "title": "EN 1 MOIS – Des dents plus lisses",
-            "heading_tag": "h4",
-            "content": "<p>Avec ma brosse manuelle, j’avais toujours l’impression d’avoir encore de la plaque. Là, tout est différent : mes dents restent lisses toute la journée et mon haleine est plus fraîche. Je recommande à 100 %.<br/><br/>Sami B.</p>",
+            "title": "Commandes dynamiques",
+            "heading_tag": "h3",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -167,10 +168,37 @@
         "item_menNpN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_60.webp",
             "column_size": "3",
-            "title": "EN 6 SEMAINES – Sourire éclatant",
-            "heading_tag": "h4",
-            "content": "<p>Je l’ai achetée surtout pour gagner du temps, mais je suis bluffée par le résultat : mes dents paraissent plus blanches et mes gencives ne saignent plus. C’est devenu un indispensable !<br/><br/>Vincent A. </p>",
+            "title": "Audio oreilles libres",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GzRW69": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/imgi_55_5106cf72-4ef0-4f4d-be1d-f86c34c95489.webp",
+            "column_size": "3",
+            "title": "Confidentialité",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MUpMb6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BILLL.png",
+            "column_size": "3",
+            "title": "Intégrations d'applications",
+            "heading_tag": "h3",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -180,7 +208,9 @@
       "block_order": [
         "item_gkTinD",
         "item_GaxwF7",
-        "item_menNpN"
+        "item_menNpN",
+        "item_GzRW69",
+        "item_MUpMb6"
       ],
       "settings": {
         "full_width": true,
@@ -188,7 +218,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Vous en parlez",
+        "title": "Découvrez la technologie",
         "content": "",
         "background": "",
         "background_gradient": "",
