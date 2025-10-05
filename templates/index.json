@@ -16,7 +16,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/imgi_3.webp",
         "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#000000",
@@ -136,6 +135,7 @@
         "item_gkTinD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_4.webp",
             "column_size": "3",
             "title": "EN 2 SEMAINES – Un gain de temps fou",
             "heading_tag": "h4",
@@ -148,6 +148,7 @@
         "item_GaxwF7": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis.jpg",
             "column_size": "3",
             "title": "EN 1 MOIS – Des dents plus lisses",
             "heading_tag": "h4",
