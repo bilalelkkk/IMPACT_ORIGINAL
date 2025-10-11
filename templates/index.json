@@ -329,19 +329,10 @@
             "content": "<p>Le pack comprend tout le nécessaire pour une utilisation immédiate :<br/></p><ul><li>Des lunettes intelligentes au design moderne<br/></li><li>Un câble de charge USB magnétique<br/></li><li>Un manuel d’utilisation rapide<br/></li><li>Une pochette de protection<br/></li></ul><p>Polyvalentes et élégantes, elles vous permettent de capturer vos moments, écouter votre musique, traduire en temps réel et discuter avec l’IA où que vous soyez.</p>",
             "page": ""
           }
-        },
-        "tab_7kR3hi": {
-          "type": "tab",
-          "settings": {
-            "title": "Comment l'utiliser ?",
-            "content": "<p>Vous pouvez désormais nettoyer vos dents en 30 secondes en seulement 3 étapes :</p><ol><li>Appliquer le dentifrice – Répartir une quantité normale uniformément sur l’embout buccal.</li><li>Placez l'embout buccal dans votre bouche</li><li>Cliquez sur le bouton Démarrer et commencez votre prochaine routine matinale.</li><li><strong>(FACULTATIF)</strong> Utilisez le mode Spa pour blanchir vos dents par la suite.</li></ol><p><strong>✓</strong> Un manuel d'utilisation est inclus dans votre colis.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
-        "tab_6gT89R",
-        "tab_7kR3hi"
+        "tab_6gT89R"
       ],
       "settings": {
         "full_width": true,
