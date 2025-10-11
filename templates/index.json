@@ -326,7 +326,7 @@
           "type": "tab",
           "settings": {
             "title": "Description",
-            "content": "<p>Le pack comprend tout le nécessaire pour une utilisation immédiate :</p><ul><li>un manche ergonomique<br/></li><li>une tête de brosse sonique<br/></li><li>un câble de charge USB<br/></li><li>Un applicateur de dentifrice<br/></li></ul><p>Pratique et complet, il vous permet de profiter directement de tous les avantages de votre nouvelle brosse à dents sonique.</p>",
+            "content": "<p>Le pack comprend tout le nécessaire pour une utilisation immédiate :<br/></p><ul><li>Des lunettes intelligentes au design moderne<br/></li><li>Un câble de charge USB magnétique<br/></li><li>Un manuel d’utilisation rapide<br/></li><li>Une pochette de protection<br/></li></ul><p>Polyvalentes et élégantes, elles vous permettent de capturer vos moments, écouter votre musique, traduire en temps réel et discuter avec l’IA où que vous soyez.</p>",
             "page": ""
           }
         },
@@ -471,57 +471,36 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça nettoie aussi bien qu’une brosse manuelle ?",
-            "content": "<p>Oui. La technologie sonique élimine jusqu’à <strong>2x plus de plaque</strong> et atteint les zones difficiles d’accès.</p>"
+            "title": "La vidéo est-elle stable quand je marche ou bouge ?",
+            "content": "<p>Oui — stabilisation logicielle intégrée + hardware optimisé pour produire une vidéo fluide, sans tremblements.</p>"
           }
         },
         "item_CwAmxh": {
           "type": "item",
           "settings": {
-            "title": "Est-elle adaptée aux enfants ?",
-            "content": "<p>Oui, la brosse peut être utilisée dès l’adolescence. Pour les plus jeunes, nous recommandons la surveillance d’un adulte.</p>"
+            "title": "Quelles fonctions d’IA sont incluses, et comment fonctionnent-elles ?",
+            "content": "<p>Traduction en temps réel, contrôle vocal, assistant ChatGPT intégré. Pour traduire, il suffit de parler / écouter dans une langue et les lunettes restitueront la traduction via les haut-parleurs.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça fait mal aux gencives ?",
-            "content": "<p>Non, au contraire ! Les vibrations soniques massent et stimulent les gencives en douceur, ce qui contribue à une meilleure santé bucco-dentaire.</p>"
+            "title": "Quelle est l’autonomie, et comment la recharger ?",
+            "content": "<p>Jusqu’à 3 heures d’enregistrement vidéo continu, ou environ 30 heures si usage uniquement audio. Recharge complète en ~1 heure via câble USB magnétique. </p>"
           }
         },
         "item_bEzrRk": {
           "type": "item",
           "settings": {
-            "title": "Peut-elle blanchir les dents ?",
-            "content": "<p>Avec un usage régulier, elle aide à réduire les taches superficielles (café, thé, vin, tabac) pour des <strong>dents plus blanches naturellement</strong>.</p>"
+            "title": "Le poids est-il confortable pour un port prolongé ?",
+            "content": "<p>Oui — 42 grammes seulement. Le design est équilibré pour un port tout au long de la journée.</p>"
           }
         },
         "item_CHmG38": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps dure la batterie ?",
-            "content": "<p>Jusqu’à <strong>30 jours d’autonomie</strong> après une seule charge. Idéal pour voyager.</p>"
-          }
-        },
-        "item_zqfgCj": {
-          "type": "item",
-          "settings": {
-            "title": "Comment remplacer les têtes de brosse ?",
-            "content": "<p>Les têtes sont <strong>facilement remplaçables</strong>. Pour une hygiène optimale, changez-les tous les <strong>3 mois</strong>, comme une brosse classique.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que je peux utiliser mon dentifrice habituel ?",
-            "content": "<p>Oui, il suffit d’appliquer votre dentifrice directement sur la brosse. Aucun produit spécial n’est nécessaire.</p>"
-          }
-        },
-        "item_EcQiqr": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que ça convient si je porte un appareil dentaire ?",
-            "content": "<p>Oui, la brosse sonique peut être utilisée avec un appareil, des implants ou des couronnes, sans risque.</p>"
+            "title": "La caméra est-elle toujours active ? Qu’en est-il de la vie privée ?",
+            "content": "<p>Non — la caméra / micro s’activent <strong>seulement</strong> quand tu lances un enregistrement ou utilises l’assistant. Toutes les vidéos / photos sont stockées dans les lunettes ou l’app, rien n’est diffusé publiquement sans ton choix.</p>"
           }
         }
       },
@@ -531,10 +510,7 @@
         "item_CwAmxh",
         "166442457738b23caf-1",
         "item_bEzrRk",
-        "item_CHmG38",
-        "item_zqfgCj",
-        "166442457738b23caf-2",
-        "item_EcQiqr"
+        "item_CHmG38"
       ],
       "settings": {
         "full_width": false,
