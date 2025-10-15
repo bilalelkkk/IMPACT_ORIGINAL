@@ -11,16 +11,28 @@
   "sections": {
     "image_with_text_overlay_xTAHXM": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_WVweER": {
+          "type": "heading",
+          "settings": {
+            "text": "Restez connecté, capturez chaque instant…",
+            "heading_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WVweER"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Prod1.png",
-        "mobile_image": "shopify://shop_images/Prod1.png",
-        "mobile_text_position": "place-self-start-center text-center",
-        "desktop_text_position": "sm:place-self-start-center sm:text-center",
-        "text_color": "#000000",
+        "mobile_image": "shopify://shop_images/Banniere.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
         "overlay_color": "#ffffff",
         "overlay_opacity": 0
       }
