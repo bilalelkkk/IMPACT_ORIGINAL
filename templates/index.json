@@ -367,7 +367,7 @@
         "item_gkTinD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/OK.jpg",
+            "image": "shopify://shop_images/BEB.jpg",
             "column_size": "3",
             "title": "Technologies des verres",
             "heading_tag": "h3",
@@ -380,7 +380,7 @@
         "item_GaxwF7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/imgi_59.webp",
+            "image": "shopify://shop_images/BIBI.jpg",
             "column_size": "3",
             "title": "Commandes dynamiques",
             "heading_tag": "h3",
