@@ -151,6 +151,32 @@
     "multi_column_grtVhQ": {
       "type": "multi-column",
       "blocks": {
+        "item_gVrDzF": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Temps en famille.mp4",
+            "column_size": "3",
+            "title": "Temps en famille",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Q8B7eV": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Vacance.mp4",
+            "column_size": "3",
+            "title": "Vacance",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_gaNV4w": {
           "type": "item",
           "settings": {
@@ -170,19 +196,6 @@
             "video": "shopify://files/videos/Football.mp4",
             "column_size": "3",
             "title": "Football",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Q8B7eV": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Vacance.mp4",
-            "column_size": "3",
-            "title": "Vacance",
             "heading_tag": "h3",
             "content": "",
             "link_url": "",
@@ -215,28 +228,15 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_gVrDzF": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Temps en famille.mp4",
-            "column_size": "3",
-            "title": "Temps en famille",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
+        "item_gVrDzF",
+        "item_Q8B7eV",
         "item_gaNV4w",
         "item_ACNR8p",
-        "item_Q8B7eV",
         "item_E3M3gk",
-        "item_jJ8GMA",
-        "item_gVrDzF"
+        "item_jJ8GMA"
       ],
       "name": "Multi-column",
       "settings": {
